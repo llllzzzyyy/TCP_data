@@ -1,0 +1,17 @@
+[
+  {
+    "variant": "with_non_regression",
+    "description": "Sample N passed testcases + all failed rows (regardless of label).",
+    "project": "/home/lili/TC_try/datasets/ActiveMQ_commit_a37c111a7522ab0307fc2bba877ce820538f5c3c",
+    "project_name": "activemq_git_a37c111a7522ab0307fc2bba877ce820538f5c3c",
+    "commit_id": "a37c111",
+    "repository": "/home/lili/TC_try/datasets/ActiveMQ_commit_a37c111a7522ab0307fc2bba877ce820538f5c3c/repo/activemq_git_a37c111a7522ab0307fc2bba877ce820538f5c3c",
+    "result_root": "/home/lili/TC_try/direct_sorting",
+    "repo_dir": "/home/lili/TC_try/direct_sorting/activemq_git_a37c111a7522ab0307fc2bba877ce820538f5c3c",
+    "version_dir": "/home/lili/TC_try/direct_sorting/activemq_git_a37c111a7522ab0307fc2bba877ce820538f5c3c/a37c111",
+    "run_dir": "/home/lili/TC_try/direct_sorting/activemq_git_a37c111a7522ab0307fc2bba877ce820538f5c3c/a37c111/run_20260722_221937",
+    "dataset_variants_dir": "/home/lili/TC_try/direct_sorting/activemq_git_a37c111a7522ab0307fc2bba877ce820538f5c3c/a37c111/run_20260722_221937/dataset_variants",
+    "candidates": "/home/lili/TC_try/direct_sorting/activemq_git_a37c111a7522ab0307fc2bba877ce820538f5c3c/a37c111/run_20260722_221937/dataset_variants/with_non_regression/candidate_testcases.csv",
+    "prompt": "/home/lili/TC_try/direct_sorting/activemq_git_a37c111a7522ab0307fc2bba877ce820538f5c3c/a37c111/run_20260722_221937/dataset_variants/with_non_regression/model_prompt.txt"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "variant": "with_non_regression",
+    "description": "Sample N passed testcases + all failed rows (regardless of label).",
+    "project": "/home/lili/TC_try/datasets/Hadoop_PR2768_build2_da0dbf1",
+    "project_name": "hadoop_git_da0dbf1",
+    "commit_id": "da0dbf1",
+    "repository": "/home/lili/TC_try/datasets/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1",
+    "result_root": "/home/lili/TC_try/direct_sorting",
+    "repo_dir": "/home/lili/TC_try/direct_sorting/hadoop_git_da0dbf1",
+    "version_dir": "/home/lili/TC_try/direct_sorting/hadoop_git_da0dbf1/da0dbf1",
+    "run_dir": "/home/lili/TC_try/direct_sorting/hadoop_git_da0dbf1/da0dbf1/run_20260722_221937",
+    "dataset_variants_dir": "/home/lili/TC_try/direct_sorting/hadoop_git_da0dbf1/da0dbf1/run_20260722_221937/dataset_variants",
+    "candidates": "/home/lili/TC_try/direct_sorting/hadoop_git_da0dbf1/da0dbf1/run_20260722_221937/dataset_variants/with_non_regression/candidate_testcases.csv",
+    "prompt": "/home/lili/TC_try/direct_sorting/hadoop_git_da0dbf1/da0dbf1/run_20260722_221937/dataset_variants/with_non_regression/model_prompt.txt"
+  }
+]

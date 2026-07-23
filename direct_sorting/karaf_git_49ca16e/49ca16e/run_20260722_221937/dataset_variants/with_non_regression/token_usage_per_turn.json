@@ -1,0 +1,123 @@
+{
+  "session_id": "8eb5b710-9289-413d-9165-07878ecddabe",
+  "model": "deepseek-v4-flash",
+  "total": {
+    "input_tokens": 51167,
+    "output_tokens": 15259,
+    "cache_read_input_tokens": 72448,
+    "num_turns": 11
+  },
+  "per_turn": [
+    {
+      "turn": 1,
+      "input_tokens": 25270,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [],
+      "tool_count": 0,
+      "step": 2
+    },
+    {
+      "turn": 2,
+      "input_tokens": 25270,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 3
+    },
+    {
+      "turn": 3,
+      "input_tokens": 25270,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 5
+    },
+    {
+      "turn": 4,
+      "input_tokens": 25270,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 7
+    },
+    {
+      "turn": 5,
+      "input_tokens": 11648,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25472,
+      "tools": [],
+      "tool_count": 0,
+      "step": 9
+    },
+    {
+      "turn": 6,
+      "input_tokens": 11648,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25472,
+      "tools": [],
+      "tool_count": 0,
+      "step": 10
+    },
+    {
+      "turn": 7,
+      "input_tokens": 11648,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25472,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 11
+    },
+    {
+      "turn": 8,
+      "input_tokens": 11648,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25472,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 13
+    },
+    {
+      "turn": 9,
+      "input_tokens": 11648,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25472,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 15
+    },
+    {
+      "turn": 10,
+      "input_tokens": 14249,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 46976,
+      "tools": [],
+      "tool_count": 0,
+      "step": 17
+    },
+    {
+      "turn": 11,
+      "input_tokens": 14249,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 46976,
+      "tools": [],
+      "tool_count": 0,
+      "step": 18
+    }
+  ]
+}

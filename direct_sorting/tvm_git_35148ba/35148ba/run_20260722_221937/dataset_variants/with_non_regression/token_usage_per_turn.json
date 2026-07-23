@@ -1,0 +1,536 @@
+{
+  "session_id": "f8efbef2-9076-48f2-b0ff-942d4b64d472",
+  "model": "deepseek-v4-flash",
+  "total": {
+    "input_tokens": 91519,
+    "output_tokens": 29306,
+    "cache_read_input_tokens": 510464,
+    "num_turns": 50
+  },
+  "per_turn": [
+    {
+      "turn": 1,
+      "input_tokens": 25242,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [],
+      "tool_count": 0,
+      "step": 2
+    },
+    {
+      "turn": 2,
+      "input_tokens": 25242,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [],
+      "tool_count": 0,
+      "step": 3
+    },
+    {
+      "turn": 3,
+      "input_tokens": 25242,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 4
+    },
+    {
+      "turn": 4,
+      "input_tokens": 25242,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 5
+    },
+    {
+      "turn": 5,
+      "input_tokens": 25242,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 8
+    },
+    {
+      "turn": 6,
+      "input_tokens": 36214,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25472,
+      "tools": [],
+      "tool_count": 0,
+      "step": 10
+    },
+    {
+      "turn": 7,
+      "input_tokens": 36214,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25472,
+      "tools": [],
+      "tool_count": 0,
+      "step": 11
+    },
+    {
+      "turn": 8,
+      "input_tokens": 36214,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25472,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 12
+    },
+    {
+      "turn": 9,
+      "input_tokens": 14855,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 16
+    },
+    {
+      "turn": 10,
+      "input_tokens": 14855,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 19
+    },
+    {
+      "turn": 11,
+      "input_tokens": 36214,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25472,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 21
+    },
+    {
+      "turn": 12,
+      "input_tokens": 14855,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 25
+    },
+    {
+      "turn": 13,
+      "input_tokens": 7201,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 7808,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 29
+    },
+    {
+      "turn": 14,
+      "input_tokens": 493,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 15232,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 31
+    },
+    {
+      "turn": 15,
+      "input_tokens": 7201,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 7808,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 35
+    },
+    {
+      "turn": 16,
+      "input_tokens": 493,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 15232,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 37
+    },
+    {
+      "turn": 17,
+      "input_tokens": 493,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 15232,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 41
+    },
+    {
+      "turn": 18,
+      "input_tokens": 7201,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 7808,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 45
+    },
+    {
+      "turn": 19,
+      "input_tokens": 493,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 15232,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 47
+    },
+    {
+      "turn": 20,
+      "input_tokens": 493,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 15232,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 51
+    },
+    {
+      "turn": 21,
+      "input_tokens": 7201,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 7808,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 56
+    },
+    {
+      "turn": 22,
+      "input_tokens": 7201,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 7808,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 61
+    },
+    {
+      "turn": 23,
+      "input_tokens": 7201,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 7808,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 66
+    },
+    {
+      "turn": 24,
+      "input_tokens": 4263,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 15616,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 68
+    },
+    {
+      "turn": 25,
+      "input_tokens": 7201,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 7808,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 74
+    },
+    {
+      "turn": 26,
+      "input_tokens": 4263,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 15616,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 76
+    },
+    {
+      "turn": 27,
+      "input_tokens": 7201,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 7808,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 83
+    },
+    {
+      "turn": 28,
+      "input_tokens": 7201,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 7808,
+      "tools": [
+        "Agent"
+      ],
+      "tool_count": 1,
+      "step": 92
+    },
+    {
+      "turn": 29,
+      "input_tokens": 826,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 19840,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 98
+    },
+    {
+      "turn": 30,
+      "input_tokens": 826,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 19840,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 105
+    },
+    {
+      "turn": 31,
+      "input_tokens": 177,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 20864,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 117
+    },
+    {
+      "turn": 32,
+      "input_tokens": 727,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 21120,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 132
+    },
+    {
+      "turn": 33,
+      "input_tokens": 4096,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 66944,
+      "tools": [],
+      "tool_count": 0,
+      "step": 212
+    },
+    {
+      "turn": 34,
+      "input_tokens": 4096,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 66944,
+      "tools": [],
+      "tool_count": 0,
+      "step": 213
+    },
+    {
+      "turn": 35,
+      "input_tokens": 4096,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 66944,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 214
+    },
+    {
+      "turn": 36,
+      "input_tokens": 24887,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 77696,
+      "tools": [],
+      "tool_count": 0,
+      "step": 216
+    },
+    {
+      "turn": 37,
+      "input_tokens": 24887,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 77696,
+      "tools": [],
+      "tool_count": 0,
+      "step": 217
+    },
+    {
+      "turn": 38,
+      "input_tokens": 24887,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 77696,
+      "tools": [
+        "Grep"
+      ],
+      "tool_count": 1,
+      "step": 218
+    },
+    {
+      "turn": 39,
+      "input_tokens": 24887,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 77696,
+      "tools": [
+        "Grep"
+      ],
+      "tool_count": 1,
+      "step": 220
+    },
+    {
+      "turn": 40,
+      "input_tokens": 248,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 111744,
+      "tools": [],
+      "tool_count": 0,
+      "step": 222
+    },
+    {
+      "turn": 41,
+      "input_tokens": 248,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 111744,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 223
+    },
+    {
+      "turn": 42,
+      "input_tokens": 248,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 111744,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 225
+    },
+    {
+      "turn": 43,
+      "input_tokens": 248,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 111744,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 227
+    },
+    {
+      "turn": 44,
+      "input_tokens": 593,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 112384,
+      "tools": [],
+      "tool_count": 0,
+      "step": 229
+    },
+    {
+      "turn": 45,
+      "input_tokens": 593,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 112384,
+      "tools": [],
+      "tool_count": 0,
+      "step": 230
+    },
+    {
+      "turn": 46,
+      "input_tokens": 593,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 112384,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 231
+    },
+    {
+      "turn": 47,
+      "input_tokens": 593,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 112384,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 233
+    },
+    {
+      "turn": 48,
+      "input_tokens": 593,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 112384,
+      "tools": [
+        "Bash"
+      ],
+      "tool_count": 1,
+      "step": 235
+    },
+    {
+      "turn": 49,
+      "input_tokens": 239,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 116224,
+      "tools": [],
+      "tool_count": 0,
+      "step": 237
+    },
+    {
+      "turn": 50,
+      "input_tokens": 239,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 116224,
+      "tools": [],
+      "tool_count": 0,
+      "step": 238
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "variant": "with_non_regression",
+    "description": "Sample N passed testcases + all failed rows (regardless of label).",
+    "project": "/home/lili/TC_try/datasets/TVM_PR14492_build3_35148ba",
+    "project_name": "tvm_git_35148ba",
+    "commit_id": "35148ba",
+    "repository": "/home/lili/TC_try/datasets/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba",
+    "result_root": "/home/lili/TC_try/direct_sorting",
+    "repo_dir": "/home/lili/TC_try/direct_sorting/tvm_git_35148ba",
+    "version_dir": "/home/lili/TC_try/direct_sorting/tvm_git_35148ba/35148ba",
+    "run_dir": "/home/lili/TC_try/direct_sorting/tvm_git_35148ba/35148ba/run_20260722_221937",
+    "dataset_variants_dir": "/home/lili/TC_try/direct_sorting/tvm_git_35148ba/35148ba/run_20260722_221937/dataset_variants",
+    "candidates": "/home/lili/TC_try/direct_sorting/tvm_git_35148ba/35148ba/run_20260722_221937/dataset_variants/with_non_regression/candidate_testcases.csv",
+    "prompt": "/home/lili/TC_try/direct_sorting/tvm_git_35148ba/35148ba/run_20260722_221937/dataset_variants/with_non_regression/model_prompt.txt"
+  }
+]

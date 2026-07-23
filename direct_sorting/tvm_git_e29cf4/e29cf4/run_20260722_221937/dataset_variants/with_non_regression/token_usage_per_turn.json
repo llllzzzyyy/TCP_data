@@ -1,0 +1,101 @@
+{
+  "session_id": "f6488510-71b3-495a-872d-6162294b2572",
+  "model": "deepseek-v4-flash",
+  "total": {
+    "input_tokens": 54034,
+    "output_tokens": 10705,
+    "cache_read_input_tokens": 64896,
+    "num_turns": 9
+  },
+  "per_turn": [
+    {
+      "turn": 1,
+      "input_tokens": 25200,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [],
+      "tool_count": 0,
+      "step": 2
+    },
+    {
+      "turn": 2,
+      "input_tokens": 25200,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 3
+    },
+    {
+      "turn": 3,
+      "input_tokens": 25200,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 5
+    },
+    {
+      "turn": 4,
+      "input_tokens": 25200,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 7
+    },
+    {
+      "turn": 5,
+      "input_tokens": 13725,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25344,
+      "tools": [],
+      "tool_count": 0,
+      "step": 9
+    },
+    {
+      "turn": 6,
+      "input_tokens": 13725,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25344,
+      "tools": [],
+      "tool_count": 0,
+      "step": 10
+    },
+    {
+      "turn": 7,
+      "input_tokens": 13725,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 25344,
+      "tools": [
+        "Read"
+      ],
+      "tool_count": 1,
+      "step": 11
+    },
+    {
+      "turn": 8,
+      "input_tokens": 15109,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 39552,
+      "tools": [],
+      "tool_count": 0,
+      "step": 13
+    },
+    {
+      "turn": 9,
+      "input_tokens": 15109,
+      "output_tokens": 0,
+      "cache_read_input_tokens": 39552,
+      "tools": [],
+      "tool_count": 0,
+      "step": 14
+    }
+  ]
+}

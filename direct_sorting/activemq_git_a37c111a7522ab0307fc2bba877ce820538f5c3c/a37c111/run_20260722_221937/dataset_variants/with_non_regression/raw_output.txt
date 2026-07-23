@@ -1,0 +1,13 @@
+Now I have a thorough understanding of the commit and all candidates. Let me compile my ranking.
+
+The commit modifies `AbstractRegion.processConsumerControl()` to prevent auto-creation of wildcard/composite destinations when processing `ConsumerControl` commands, and extends `lookup()` with an `autoCreate` parameter. The key behavioral change: for wildcard/composite destinations, `lookup()` with `autoCreate=false` returns null if the destination doesn't exist, and `wakeup()` is skipped via `Optional.ofNullable().ifPresent()`.
+
+Here is my ranking of all 111 candidates from most to least likely to reveal a regression:
+
+[98, 55, 89, 27, 28, 11, 37, 88, 9, 91, 92, 85, 70, 78, 2, 62, 41, 69, 54, 6, 106, 20, 4, 71, 25, 38, 31, 57, 75, 63, 22, 24, 39, 18, 50, 83, 93, 74, 21, 26, 80, 82, 65, 67, 44, 34, 105, 101, 108, 109, 51, 86, 72, 12, 90, 43, 16, 36, 33, 35, 99, 79, 68, 47, 10, 66, 13, 14, 7, 102, 53, 23, 103, 107, 5, 15, 52, 96, 40, 42, 76, 110, 48, 49, 64, 19, 8, 45, 77, 73, 84, 60, 87, 46, 81, 61, 111, 3, 29, 32, 58, 59, 94, 97, 100, 104, 1, 30, 56, 95, 17]
+
+I prioritized tests that exercise the code paths directly affected by the commit. At the top are tests with the strongest code-level evidence: AMQ4062Test (98) which directly accesses `TopicRegion` (a subclass of `AbstractRegion`) and tests subscriber prefetch size; AMQ6477Test (55) which tests `PrefetchSubscription` dispatch tracking; and QueueSubscriptionInflightMessageSizeTest (89) which exercises the subscription dispatch infrastructure that `processConsumerControl()` interacts with via `setPrefetchSize()` and `wakeup()`.
+
+Next are tests that manage durable subscriptions and consumer lifecycle (27, 28, 11, 37, 88, 9, 85), as these exercise the subscription management system in `AbstractRegion`. Tests involving destination creation, virtual topics, and wildcard destinations (91, 92, 70, 78, 41, 69) follow, since the commit specifically gates destination auto-creation on `isPattern()` and `isComposite()` checks. Broker infrastructure tests (2, 62, 54, 6, 106) come next.
+
+Transport protocol tests (STOMP, MQTT, NIO, failover), security (JAAS, SSL), JMS connection pools, persistence stores, JMS conformance, and utility tests are ranked lowest because the commit does not affect those areas — it changes only the broker region's consumer control processing logic, not message transport, security, storage format, or JMS API compliance. Within each evidence tier, original candidate_id order serves as the tiebreaker.

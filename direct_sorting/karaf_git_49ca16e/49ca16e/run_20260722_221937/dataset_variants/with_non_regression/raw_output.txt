@@ -1,0 +1,22 @@
+Now I have a thorough understanding of the commit and all candidates. Let me construct my ranking.
+
+**Commit Analysis**: This commit (KARAF-6953) introduces a configurable `autoRefresh` property for the Karaf features service. The change touches 6 Java files across the `features/core` module:
+
+- **FeaturesService.java** — adds `DEFAULT_AUTO_REFRESH = true` constant
+- **Activator.java** — reads `autoRefresh` from config and passes it to `FeaturesServiceConfig`
+- **FeaturesServiceConfig.java** — new `autoRefresh` field, updated constructors
+- **Deployer.java** — adds `autoRefresh` to `DeploymentRequest`; when `autoRefresh=false`, overrides `noRefresh*` flags to force the refresh policy
+- **FeaturesServiceImpl.java** — propagates `cfg.autoRefresh` to the deployment request
+- **BlacklistTest.java** — updated constructor call (test fixture, not a candidate)
+
+**Regression hypothesis**: A bug would manifest as incorrect bundle refresh behavior (bundles being refreshed when they should not, or not being refreshed when they should) during feature installation/deployment, or as a broken constructor chain in `FeaturesServiceConfig` or `Deployer.DeploymentRequest`.
+
+**[84, 13, 39, 7, 53, 29, 91, 80, 48, 83, 57, 97, 101, 37, 46, 63, 24, 92, 17, 58, 81, 85, 27, 99, 1, 2, 8, 16, 20, 21, 23, 26, 28, 31, 34, 64, 70, 71, 95, 102, 3, 66, 4, 5, 6, 9, 10, 11, 12, 14, 15, 18, 19, 22, 25, 30, 32, 33, 35, 36, 38, 40, 41, 42, 43, 44, 45, 47, 49, 50, 51, 52, 54, 55, 56, 59, 60, 61, 62, 65, 67, 68, 69, 72, 73, 74, 75, 76, 77, 78, 79, 82, 86, 87, 88, 89, 90, 93, 94, 96, 98, 103, 104, 100]**
+
+**Ranking strategy**: I prioritized tests by their proximity to the changed code paths, following three tiers:
+
+1. **Strongest — direct package/class overlap with changed code**: Tests in `org.apache.karaf.features.internal.service` (the same package as `Deployer`, `FeaturesServiceConfig`, and `FeaturesServiceImpl`) have the highest chance of exercising the modified deployment logic, constructor chains, and refresh-override behavior. These are #84 (FeaturesValidationTest), #13 (OverridesTest), and #39 (LocationPatternTest). Next are tests in the broader `features` module (#7, #53, #29, #91) since they share classes like `FeaturesService` and the feature resolution pipeline.
+
+2. **Strong — integration tests that exercise feature deployment**: `StandardFeaturesTest` (#80), `ConditionalFeaturesTest` (#48), `EnterpriseFeaturesTest` (#83), and Spring features tests (#57, #97) install features end-to-end, going through the full `FeaturesServiceImpl.getDeploymentRequest()` → `Deployer.deploy()` path where the `autoRefresh` flag is read and applied. `FeatureSshCommandSecurityTest` (#101) also operates on feature deployment commands. KAR deployment tests (#37, #46) use the deployer directly. General itests (#63, #24, #92, etc.) come next as they may install features during setup.
+
+3. **Weakest — no code-level connection**: All other tests (JAAS login modules, JDBC locks, shell/SSH commands, SSH server utilities, maven resolver, instance management, webconsole, event commands, profile/properties, JUnit provider, etc.) have no behavioral or code-level link to the features service deployment/refresh logic. These are ranked lowest, preserving original candidate_id order as tiebreaker when evidence is equal. Candidate #100 (JUnit4Provider, a test runner rather than a test) is placed last.

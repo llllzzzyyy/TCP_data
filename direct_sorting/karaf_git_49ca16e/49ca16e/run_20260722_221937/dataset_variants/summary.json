@@ -1,0 +1,17 @@
+[
+  {
+    "variant": "with_non_regression",
+    "description": "Sample N passed testcases + all failed rows (regardless of label).",
+    "project": "/home/lili/TC_try/datasets/Karaf_PR1287_build1_49ca16e",
+    "project_name": "karaf_git_49ca16e",
+    "commit_id": "49ca16e",
+    "repository": "/home/lili/TC_try/datasets/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e",
+    "result_root": "/home/lili/TC_try/direct_sorting",
+    "repo_dir": "/home/lili/TC_try/direct_sorting/karaf_git_49ca16e",
+    "version_dir": "/home/lili/TC_try/direct_sorting/karaf_git_49ca16e/49ca16e",
+    "run_dir": "/home/lili/TC_try/direct_sorting/karaf_git_49ca16e/49ca16e/run_20260722_221937",
+    "dataset_variants_dir": "/home/lili/TC_try/direct_sorting/karaf_git_49ca16e/49ca16e/run_20260722_221937/dataset_variants",
+    "candidates": "/home/lili/TC_try/direct_sorting/karaf_git_49ca16e/49ca16e/run_20260722_221937/dataset_variants/with_non_regression/candidate_testcases.csv",
+    "prompt": "/home/lili/TC_try/direct_sorting/karaf_git_49ca16e/49ca16e/run_20260722_221937/dataset_variants/with_non_regression/model_prompt.txt"
+  }
+]

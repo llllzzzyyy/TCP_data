@@ -1,0 +1,68 @@
+{
+  "run_time": "2026-07-23T23:01:47.673408",
+  "total": 5,
+  "success_count": 5,
+  "fail_count": 0,
+  "results": [
+    {
+      "commit_id": "e29cf4",
+      "variant": "with_non_regression",
+      "project_name": "tvm_git_e29cf4",
+      "status": "success",
+      "elapsed_seconds": 88.5,
+      "candidate_count": 113,
+      "relevant_failed_count": 5,
+      "APFD": 0.9548672566371682,
+      "NRPA": 0.9529658226107939,
+      "RPA": 0.6381216570284667
+    },
+    {
+      "commit_id": "49ca16e",
+      "variant": "with_non_regression",
+      "project_name": "karaf_git_49ca16e",
+      "status": "success",
+      "elapsed_seconds": 126.7,
+      "candidate_count": 104,
+      "relevant_failed_count": 3,
+      "APFD": 0.8381410256410257,
+      "NRPA": 0.8613176297386824,
+      "RPA": 0.5769723865877712
+    },
+    {
+      "commit_id": "da0dbf1",
+      "variant": "with_non_regression",
+      "project_name": "hadoop_git_da0dbf1",
+      "status": "success",
+      "elapsed_seconds": 206.5,
+      "candidate_count": 113,
+      "relevant_failed_count": 4,
+      "APFD": 0.9203539823008849,
+      "NRPA": 0.8302210440138785,
+      "RPA": 0.5559297256376119
+    },
+    {
+      "commit_id": "35148ba",
+      "variant": "with_non_regression",
+      "project_name": "tvm_git_35148ba",
+      "status": "success",
+      "elapsed_seconds": 323.9,
+      "candidate_count": 154,
+      "relevant_failed_count": 34,
+      "APFD": 0.5091673032849504,
+      "NRPA": 0.8028211062348238,
+      "RPA": 0.5369517788453692
+    },
+    {
+      "commit_id": "a37c111",
+      "variant": "with_non_regression",
+      "project_name": "activemq_git_a37c111a7522ab0307fc2bba877ce820538f5c3c",
+      "status": "success",
+      "elapsed_seconds": 439.7,
+      "candidate_count": 111,
+      "relevant_failed_count": 1,
+      "APFD": 0.9144144144144144,
+      "NRPA": 0.7765855221012172,
+      "RPA": 0.5200557700557701
+    }
+  ]
+}

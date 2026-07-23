@@ -1,0 +1,1082 @@
+{
+  "ranking": [
+    {
+      "rank": 1,
+      "candidate_id": "31",
+      "testcase_class": "ctypes.tests.python.relay.test_any",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_any.py",
+      "reason": ""
+    },
+    {
+      "rank": 2,
+      "candidate_id": "13",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_inject_software_pipeline",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_inject_software_pipeline.py",
+      "reason": ""
+    },
+    {
+      "rank": 3,
+      "candidate_id": "50",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_codegen",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_codegen.py",
+      "reason": ""
+    },
+    {
+      "rank": 4,
+      "candidate_id": "10",
+      "testcase_class": "cython.tests.python.frontend.keras.test_forward",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/frontend/keras/test_forward.py",
+      "reason": ""
+    },
+    {
+      "rank": 5,
+      "candidate_id": "87",
+      "testcase_class": "cython.tests.python.frontend.mxnet.test_qnn_ops_utils",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/frontend/mxnet/test_qnn_ops_utils.py",
+      "reason": ""
+    },
+    {
+      "rank": 6,
+      "candidate_id": "20",
+      "testcase_class": "cython.tests.python.unittest.test_tir_schedule_rfactor",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_schedule_rfactor.py",
+      "reason": ""
+    },
+    {
+      "rank": 7,
+      "candidate_id": "88",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_schedule_rfactor",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_schedule_rfactor.py",
+      "reason": ""
+    },
+    {
+      "rank": 8,
+      "candidate_id": "22",
+      "testcase_class": "cython.tests.python.unittest.test_tir_schedule_compute_inline",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_schedule_compute_inline.py",
+      "reason": ""
+    },
+    {
+      "rank": 9,
+      "candidate_id": "61",
+      "testcase_class": "cython.tests.python.unittest.test_tir_schedule_read_write_at",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_schedule_read_write_at.py",
+      "reason": ""
+    },
+    {
+      "rank": 10,
+      "candidate_id": "12",
+      "testcase_class": "cython.tests.python.unittest.test_arith_simplify",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_arith_simplify.py",
+      "reason": ""
+    },
+    {
+      "rank": 11,
+      "candidate_id": "8",
+      "testcase_class": "cython.tests.python.unittest.test_arith_intset",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_arith_intset.py",
+      "reason": ""
+    },
+    {
+      "rank": 12,
+      "candidate_id": "78",
+      "testcase_class": "cython.tests.python.unittest.test_arith_deduce_bound",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_arith_deduce_bound.py",
+      "reason": ""
+    },
+    {
+      "rank": 13,
+      "candidate_id": "21",
+      "testcase_class": "cython.tests.python.unittest.test_arith_solve_linear_equations",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_arith_solve_linear_equations.py",
+      "reason": ""
+    },
+    {
+      "rank": 14,
+      "candidate_id": "36",
+      "testcase_class": "cython.tests.python.unittest.test_arith_detect_linear_equation",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_arith_detect_linear_equation.py",
+      "reason": ""
+    },
+    {
+      "rank": 15,
+      "candidate_id": "35",
+      "testcase_class": "cython.tests.python.unittest.test_subwarp_reduction_cuda",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_subwarp_reduction_cuda.py",
+      "reason": ""
+    },
+    {
+      "rank": 16,
+      "candidate_id": "64",
+      "testcase_class": "cython.tests.python.unittest.test_tir_ptx_ldmatrix",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_ptx_ldmatrix.py",
+      "reason": ""
+    },
+    {
+      "rank": 17,
+      "candidate_id": "66",
+      "testcase_class": "ctypes.tests.python.unittest.test_meta_schedule_schedule_cuda_layout_transform",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_schedule_cuda_layout_transform.py",
+      "reason": ""
+    },
+    {
+      "rank": 18,
+      "candidate_id": "135",
+      "testcase_class": "cython.tests.python.unittest.test_meta_schedule_space_cuda_winograd",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_space_cuda_winograd.py",
+      "reason": ""
+    },
+    {
+      "rank": 19,
+      "candidate_id": "32",
+      "testcase_class": "ctypes.tests.python.relay.strategy.arm_cpu.test_quantized_convolution",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/strategy/arm_cpu/test_quantized_convolution.py",
+      "reason": ""
+    },
+    {
+      "rank": 20,
+      "candidate_id": "46",
+      "testcase_class": "ctypes.tests.python.contrib.test_cmsisnn.test_fully_connected",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_cmsisnn/test_fully_connected.py",
+      "reason": ""
+    },
+    {
+      "rank": 21,
+      "candidate_id": "1",
+      "testcase_class": "ctypes.tests.python.relay.test_pass_qnn_legalize",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_pass_qnn_legalize.py",
+      "reason": ""
+    },
+    {
+      "rank": 22,
+      "candidate_id": "26",
+      "testcase_class": "ctypes.tests.python.relay.test_op_qnn_unary_elementwise",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_op_qnn_unary_elementwise.py",
+      "reason": ""
+    },
+    {
+      "rank": 23,
+      "candidate_id": "94",
+      "testcase_class": "ctypes.tests.python.relay.test_op_qnn_leaky_relu",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_op_qnn_leaky_relu.py",
+      "reason": ""
+    },
+    {
+      "rank": 24,
+      "candidate_id": "59",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_transform_remove_no_op",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_remove_no_op.py",
+      "reason": ""
+    },
+    {
+      "rank": 25,
+      "candidate_id": "68",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_remove_no_op",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_remove_no_op.py",
+      "reason": ""
+    },
+    {
+      "rank": 26,
+      "candidate_id": "41",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_ir_builder",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_ir_builder.py",
+      "reason": ""
+    },
+    {
+      "rank": 27,
+      "candidate_id": "105",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_make_packed_api",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_make_packed_api.py",
+      "reason": ""
+    },
+    {
+      "rank": 28,
+      "candidate_id": "49",
+      "testcase_class": "cython.tests.python.unittest.test_te_hybrid_script",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_te_hybrid_script.py",
+      "reason": ""
+    },
+    {
+      "rank": 29,
+      "candidate_id": "62",
+      "testcase_class": "ctypes.tests.python.unittest.test_te_hybrid_script",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_te_hybrid_script.py",
+      "reason": ""
+    },
+    {
+      "rank": 30,
+      "candidate_id": "124",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_vision",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_vision.py",
+      "reason": ""
+    },
+    {
+      "rank": 31,
+      "candidate_id": "144",
+      "testcase_class": "ctypes.tests.python.relay.opencl_texture.test_pool_texture",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/opencl_texture/test_pool_texture.py",
+      "reason": ""
+    },
+    {
+      "rank": 32,
+      "candidate_id": "139",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_transform_lower_tvm_builtin",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_lower_tvm_builtin.py",
+      "reason": ""
+    },
+    {
+      "rank": 33,
+      "candidate_id": "102",
+      "testcase_class": "cython.tests.python.unittest.test_tvmscript_ir_builder_tir",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tvmscript_ir_builder_tir.py",
+      "reason": ""
+    },
+    {
+      "rank": 34,
+      "candidate_id": "14",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_base",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_base.py",
+      "reason": ""
+    },
+    {
+      "rank": 35,
+      "candidate_id": "83",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_imm_values",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_imm_values.py",
+      "reason": ""
+    },
+    {
+      "rank": 36,
+      "candidate_id": "145",
+      "testcase_class": "cython.tests.python.frontend.onnx.test_forward",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/frontend/onnx/test_forward.py",
+      "reason": ""
+    },
+    {
+      "rank": 37,
+      "candidate_id": "79",
+      "testcase_class": "cython.tests.python.frontend.tensorflow.test_forward",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/frontend/tensorflow/test_forward.py",
+      "reason": ""
+    },
+    {
+      "rank": 38,
+      "candidate_id": "75",
+      "testcase_class": "cython.tests.python.frontend.paddlepaddle.test_forward",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/frontend/paddlepaddle/test_forward.py",
+      "reason": ""
+    },
+    {
+      "rank": 39,
+      "candidate_id": "47",
+      "testcase_class": "cython.tests.python.frontend.coreml.test_forward",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/frontend/coreml/test_forward.py",
+      "reason": ""
+    },
+    {
+      "rank": 40,
+      "candidate_id": "117",
+      "testcase_class": "ctypes.tests.python.driver.tvmc.test_frontends",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/driver/tvmc/test_frontends.py",
+      "reason": ""
+    },
+    {
+      "rank": 41,
+      "candidate_id": "100",
+      "testcase_class": "ctypes.tests.python.relay.test_op_level3",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_op_level3.py",
+      "reason": ""
+    },
+    {
+      "rank": 42,
+      "candidate_id": "137",
+      "testcase_class": "ctypes.tests.python.relay.test_op_level5",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_op_level5.py",
+      "reason": ""
+    },
+    {
+      "rank": 43,
+      "candidate_id": "115",
+      "testcase_class": "ctypes.tests.python.relay.test_relay_te_compiler",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_relay_te_compiler.py",
+      "reason": ""
+    },
+    {
+      "rank": 44,
+      "candidate_id": "58",
+      "testcase_class": "ctypes.tests.python.relay.test_pass_to_graph_normal_form",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_pass_to_graph_normal_form.py",
+      "reason": ""
+    },
+    {
+      "rank": 45,
+      "candidate_id": "97",
+      "testcase_class": "ctypes.tests.python.relay.test_pass_fake_quantization_to_integer",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_pass_fake_quantization_to_integer.py",
+      "reason": ""
+    },
+    {
+      "rank": 46,
+      "candidate_id": "104",
+      "testcase_class": "ctypes.tests.python.relay.test_pass_flexible_shape_dispatch",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_pass_flexible_shape_dispatch.py",
+      "reason": ""
+    },
+    {
+      "rank": 47,
+      "candidate_id": "81",
+      "testcase_class": "ctypes.tests.python.relay.strategy.arm_cpu.test_conv1d_nwc",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/strategy/arm_cpu/test_conv1d_nwc.py",
+      "reason": ""
+    },
+    {
+      "rank": 48,
+      "candidate_id": "54",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_conv2d_nhwc",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_conv2d_nhwc.py",
+      "reason": ""
+    },
+    {
+      "rank": 49,
+      "candidate_id": "132",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_conv2d_hwcn",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_conv2d_hwcn.py",
+      "reason": ""
+    },
+    {
+      "rank": 50,
+      "candidate_id": "3",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_copy_compute_reordering",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_copy_compute_reordering.py",
+      "reason": ""
+    },
+    {
+      "rank": 51,
+      "candidate_id": "4",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_replace_depthwise_conv2d",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_replace_depthwise_conv2d.py",
+      "reason": ""
+    },
+    {
+      "rank": 52,
+      "candidate_id": "18",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_pass_operations_distribution",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_pass_operations_distribution.py",
+      "reason": ""
+    },
+    {
+      "rank": 53,
+      "candidate_id": "23",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_remove_concatenates",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_remove_concatenates.py",
+      "reason": ""
+    },
+    {
+      "rank": 54,
+      "candidate_id": "25",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.cascader.test_ethosu_block_config",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/cascader/test_ethosu_block_config.py",
+      "reason": ""
+    },
+    {
+      "rank": 55,
+      "candidate_id": "34",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_layout_optimizer",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_layout_optimizer.py",
+      "reason": ""
+    },
+    {
+      "rank": 56,
+      "candidate_id": "37",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_placeholder",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_placeholder.py",
+      "reason": ""
+    },
+    {
+      "rank": 57,
+      "candidate_id": "40",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_rolling_buffer",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_rolling_buffer.py",
+      "reason": ""
+    },
+    {
+      "rank": 58,
+      "candidate_id": "42",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_replace_identity",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_replace_identity.py",
+      "reason": ""
+    },
+    {
+      "rank": 59,
+      "candidate_id": "56",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_scheduler",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_scheduler.py",
+      "reason": ""
+    },
+    {
+      "rank": 60,
+      "candidate_id": "72",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_replace_pooling",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_replace_pooling.py",
+      "reason": ""
+    },
+    {
+      "rank": 61,
+      "candidate_id": "73",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.cascader.test_memory_reduction",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/cascader/test_memory_reduction.py",
+      "reason": ""
+    },
+    {
+      "rank": 62,
+      "candidate_id": "77",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_replace_conv2d",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_replace_conv2d.py",
+      "reason": ""
+    },
+    {
+      "rank": 63,
+      "candidate_id": "80",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_compiler",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_compiler.py",
+      "reason": ""
+    },
+    {
+      "rank": 64,
+      "candidate_id": "84",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_identity_optimizer",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_identity_optimizer.py",
+      "reason": ""
+    },
+    {
+      "rank": 65,
+      "candidate_id": "93",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_replace_binary_elementwise",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_replace_binary_elementwise.py",
+      "reason": ""
+    },
+    {
+      "rank": 66,
+      "candidate_id": "95",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.cascader.test_integration",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/cascader/test_integration.py",
+      "reason": ""
+    },
+    {
+      "rank": 67,
+      "candidate_id": "99",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_lookup_table",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_lookup_table.py",
+      "reason": ""
+    },
+    {
+      "rank": 68,
+      "candidate_id": "109",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_hoist_allocates",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_hoist_allocates.py",
+      "reason": ""
+    },
+    {
+      "rank": 69,
+      "candidate_id": "110",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_replace_unary_elementwise",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_replace_unary_elementwise.py",
+      "reason": ""
+    },
+    {
+      "rank": 70,
+      "candidate_id": "123",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_lut_optimizer",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_lut_optimizer.py",
+      "reason": ""
+    },
+    {
+      "rank": 71,
+      "candidate_id": "133",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_replace_copy",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_replace_copy.py",
+      "reason": ""
+    },
+    {
+      "rank": 72,
+      "candidate_id": "142",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_networks",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_networks.py",
+      "reason": ""
+    },
+    {
+      "rank": 73,
+      "candidate_id": "143",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosu.test_encode_constants",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosu/test_encode_constants.py",
+      "reason": ""
+    },
+    {
+      "rank": 74,
+      "candidate_id": "17",
+      "testcase_class": "ctypes.tests.python.unittest.test_meta_schedule_postproc_disallow_dynamic_loop",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_postproc_disallow_dynamic_loop.py",
+      "reason": ""
+    },
+    {
+      "rank": 75,
+      "candidate_id": "33",
+      "testcase_class": "cython.tests.python.unittest.test_meta_schedule_mutator_mutate_thread_binding",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_mutator_mutate_thread_binding.py",
+      "reason": ""
+    },
+    {
+      "rank": 76,
+      "candidate_id": "45",
+      "testcase_class": "ctypes.tests.python.unittest.test_meta_schedule_schedule_rule_mlt",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_schedule_rule_mlt.py",
+      "reason": ""
+    },
+    {
+      "rank": 77,
+      "candidate_id": "55",
+      "testcase_class": "ctypes.tests.python.unittest.test_meta_schedule_measure_callback",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_measure_callback.py",
+      "reason": ""
+    },
+    {
+      "rank": 78,
+      "candidate_id": "71",
+      "testcase_class": "ctypes.tests.python.unittest.test_meta_schedule_profiler",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_profiler.py",
+      "reason": ""
+    },
+    {
+      "rank": 79,
+      "candidate_id": "76",
+      "testcase_class": "ctypes.tests.python.unittest.test_meta_schedule_multi_anchor",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_multi_anchor.py",
+      "reason": ""
+    },
+    {
+      "rank": 80,
+      "candidate_id": "91",
+      "testcase_class": "ctypes.tests.python.unittest.test_meta_schedule_schedule_rule_random_compute_location",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_schedule_rule_random_compute_location.py",
+      "reason": ""
+    },
+    {
+      "rank": 81,
+      "candidate_id": "121",
+      "testcase_class": "ctypes.tests.python.unittest.test_meta_schedule_space_cpu_winograd",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_space_cpu_winograd.py",
+      "reason": ""
+    },
+    {
+      "rank": 82,
+      "candidate_id": "127",
+      "testcase_class": "cython.tests.python.unittest.test_meta_schedule_postproc_rewrite_tensorize",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_postproc_rewrite_tensorize.py",
+      "reason": ""
+    },
+    {
+      "rank": 83,
+      "candidate_id": "128",
+      "testcase_class": "ctypes.tests.python.unittest.test_meta_schedule_schedule_rule_parallel_vectorize_unroll",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_schedule_rule_parallel_vectorize_unroll.py",
+      "reason": ""
+    },
+    {
+      "rank": 84,
+      "candidate_id": "136",
+      "testcase_class": "cython.tests.python.unittest.test_meta_schedule_postproc_disallow_dynamic_loop",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_postproc_disallow_dynamic_loop.py",
+      "reason": ""
+    },
+    {
+      "rank": 85,
+      "candidate_id": "141",
+      "testcase_class": "cython.tests.python.unittest.test_meta_schedule_builder",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_builder.py",
+      "reason": ""
+    },
+    {
+      "rank": 86,
+      "candidate_id": "152",
+      "testcase_class": "cython.tests.python.unittest.test_meta_schedule_postproc_verify_vtcm_limit",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_meta_schedule_postproc_verify_vtcm_limit.py",
+      "reason": ""
+    },
+    {
+      "rank": 87,
+      "candidate_id": "2",
+      "testcase_class": "cython.tests.python.unittest.test_tvmscript_printer_highlight",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tvmscript_printer_highlight.py",
+      "reason": ""
+    },
+    {
+      "rank": 88,
+      "candidate_id": "51",
+      "testcase_class": "cython.tests.python.unittest.test_tvmscript_regression",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tvmscript_regression.py",
+      "reason": ""
+    },
+    {
+      "rank": 89,
+      "candidate_id": "148",
+      "testcase_class": "ctypes.tests.python.unittest.test_tvmscript_regression",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tvmscript_regression.py",
+      "reason": ""
+    },
+    {
+      "rank": 90,
+      "candidate_id": "57",
+      "testcase_class": "ctypes.tests.python.unittest.test_tvmscript_meta_programming",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tvmscript_meta_programming.py",
+      "reason": ""
+    },
+    {
+      "rank": 91,
+      "candidate_id": "130",
+      "testcase_class": "ctypes.tests.python.unittest.test_tvmscript_ops",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tvmscript_ops.py",
+      "reason": ""
+    },
+    {
+      "rank": 92,
+      "candidate_id": "138",
+      "testcase_class": "ctypes.tests.python.unittest.test_tvmscript_ir_builder_base",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tvmscript_ir_builder_base.py",
+      "reason": ""
+    },
+    {
+      "rank": 93,
+      "candidate_id": "9",
+      "testcase_class": "ctypes.tests.python.relay.test_ir_well_formed",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/test_ir_well_formed.py",
+      "reason": ""
+    },
+    {
+      "rank": 94,
+      "candidate_id": "98",
+      "testcase_class": "cython.tests.python.unittest.test_ir_type",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_ir_type.py",
+      "reason": ""
+    },
+    {
+      "rank": 95,
+      "candidate_id": "122",
+      "testcase_class": "ctypes.tests.python.unittest.test_ir_container",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_ir_container.py",
+      "reason": ""
+    },
+    {
+      "rank": 96,
+      "candidate_id": "126",
+      "testcase_class": "cython.tests.python.unittest.test_ir_attrs",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_ir_attrs.py",
+      "reason": ""
+    },
+    {
+      "rank": 97,
+      "candidate_id": "44",
+      "testcase_class": "ctypes.tests.python.contrib.test_hexagon.topi.slice_op.test_depthwise_conv2d_slice",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_hexagon/topi/slice_op/test_depthwise_conv2d_slice.py",
+      "reason": ""
+    },
+    {
+      "rank": 98,
+      "candidate_id": "74",
+      "testcase_class": "ctypes.tests.python.contrib.test_hexagon.test_vtcm_bandwidth",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_hexagon/test_vtcm_bandwidth.py",
+      "reason": ""
+    },
+    {
+      "rank": 99,
+      "candidate_id": "101",
+      "testcase_class": "ctypes.tests.python.contrib.test_hexagon.conv2d.test_conv2d_conv2d",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_hexagon/conv2d/test_conv2d_conv2d.py",
+      "reason": ""
+    },
+    {
+      "rank": 100,
+      "candidate_id": "118",
+      "testcase_class": "ctypes.tests.python.contrib.test_hexagon.test_parallel_scalar",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_hexagon/test_parallel_scalar.py",
+      "reason": ""
+    },
+    {
+      "rank": 101,
+      "candidate_id": "120",
+      "testcase_class": "ctypes.tests.python.contrib.test_hexagon.topi.test_add_subtract_multiply",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_hexagon/topi/test_add_subtract_multiply.py",
+      "reason": ""
+    },
+    {
+      "rank": 102,
+      "candidate_id": "140",
+      "testcase_class": "ctypes.tests.python.contrib.test_hexagon.topi.slice_op.test_dense_slice",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_hexagon/topi/slice_op/test_dense_slice.py",
+      "reason": ""
+    },
+    {
+      "rank": 103,
+      "candidate_id": "6",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_relu",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_relu.py",
+      "reason": ""
+    },
+    {
+      "rank": 104,
+      "candidate_id": "19",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_deformable_conv2d",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_deformable_conv2d.py",
+      "reason": ""
+    },
+    {
+      "rank": 105,
+      "candidate_id": "27",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_transform",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_transform.py",
+      "reason": ""
+    },
+    {
+      "rank": 106,
+      "candidate_id": "48",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_scatter",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_scatter.py",
+      "reason": ""
+    },
+    {
+      "rank": 107,
+      "candidate_id": "60",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_space_to_batch_nd",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_space_to_batch_nd.py",
+      "reason": ""
+    },
+    {
+      "rank": 108,
+      "candidate_id": "69",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_conv2d_nhwc_winograd",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_conv2d_nhwc_winograd.py",
+      "reason": ""
+    },
+    {
+      "rank": 109,
+      "candidate_id": "111",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_batch_matmul",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_batch_matmul.py",
+      "reason": ""
+    },
+    {
+      "rank": 110,
+      "candidate_id": "119",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_unique",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_unique.py",
+      "reason": ""
+    },
+    {
+      "rank": 111,
+      "candidate_id": "131",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_dense",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_dense.py",
+      "reason": ""
+    },
+    {
+      "rank": 112,
+      "candidate_id": "149",
+      "testcase_class": "cython.tests.python.topi.python.test_topi_space_to_depth",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/topi/python/test_topi_space_to_depth.py",
+      "reason": ""
+    },
+    {
+      "rank": 113,
+      "candidate_id": "28",
+      "testcase_class": "ctypes.tests.python.integration.test_gemm",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/integration/test_gemm.py",
+      "reason": ""
+    },
+    {
+      "rank": 114,
+      "candidate_id": "38",
+      "testcase_class": "ctypes.tests.python.unittest.test_div_to_mul",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_div_to_mul.py",
+      "reason": ""
+    },
+    {
+      "rank": 115,
+      "candidate_id": "43",
+      "testcase_class": "ctypes.tests.python.unittest.test_auto_scheduler_task_scheduler",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_auto_scheduler_task_scheduler.py",
+      "reason": ""
+    },
+    {
+      "rank": 116,
+      "candidate_id": "52",
+      "testcase_class": "ctypes.tests.python.unittest.test_autotvm_ga_tuner",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_autotvm_ga_tuner.py",
+      "reason": ""
+    },
+    {
+      "rank": 117,
+      "candidate_id": "5",
+      "testcase_class": "cython.tests.python.unittest.test_autotvm_record",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_autotvm_record.py",
+      "reason": ""
+    },
+    {
+      "rank": 118,
+      "candidate_id": "7",
+      "testcase_class": "ctypes.tests.python.unittest.test_te_schedule_ops",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_te_schedule_ops.py",
+      "reason": ""
+    },
+    {
+      "rank": 119,
+      "candidate_id": "116",
+      "testcase_class": "cython.tests.python.unittest.test_te_schedule_ops",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_te_schedule_ops.py",
+      "reason": ""
+    },
+    {
+      "rank": 120,
+      "candidate_id": "29",
+      "testcase_class": "ctypes.tests.python.unittest.test_te_verify_compute",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_te_verify_compute.py",
+      "reason": ""
+    },
+    {
+      "rank": 121,
+      "candidate_id": "85",
+      "testcase_class": "ctypes.tests.python.contrib.test_tedd",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_tedd.py",
+      "reason": ""
+    },
+    {
+      "rank": 122,
+      "candidate_id": "70",
+      "testcase_class": "cython.tests.python.unittest.test_gen_requirements",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_gen_requirements.py",
+      "reason": ""
+    },
+    {
+      "rank": 123,
+      "candidate_id": "108",
+      "testcase_class": "ctypes.tests.python.contrib.test_cblas",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_cblas.py",
+      "reason": ""
+    },
+    {
+      "rank": 124,
+      "candidate_id": "15",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_instrument_bound_checkers",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_instrument_bound_checkers.py",
+      "reason": ""
+    },
+    {
+      "rank": 125,
+      "candidate_id": "16",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_make_unpacked_api",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_make_unpacked_api.py",
+      "reason": ""
+    },
+    {
+      "rank": 126,
+      "candidate_id": "53",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_analysis_estimate_tir_flops",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_analysis_estimate_tir_flops.py",
+      "reason": ""
+    },
+    {
+      "rank": 127,
+      "candidate_id": "63",
+      "testcase_class": "cython.tests.python.unittest.test_tir_analysis_verify_memory",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_analysis_verify_memory.py",
+      "reason": ""
+    },
+    {
+      "rank": 128,
+      "candidate_id": "67",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_rewrite_unsafe_select",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_rewrite_unsafe_select.py",
+      "reason": ""
+    },
+    {
+      "rank": 129,
+      "candidate_id": "86",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_loop_partition",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_loop_partition.py",
+      "reason": ""
+    },
+    {
+      "rank": 130,
+      "candidate_id": "89",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_transform_remove_assume",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_remove_assume.py",
+      "reason": ""
+    },
+    {
+      "rank": 131,
+      "candidate_id": "92",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_lower_intrin",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_lower_intrin.py",
+      "reason": ""
+    },
+    {
+      "rank": 132,
+      "candidate_id": "96",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_transform_reduce_branching_through_overcompute",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_reduce_branching_through_overcompute.py",
+      "reason": ""
+    },
+    {
+      "rank": 133,
+      "candidate_id": "103",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_inject_copy_intrin",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_inject_copy_intrin.py",
+      "reason": ""
+    },
+    {
+      "rank": 134,
+      "candidate_id": "106",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_compact_buffer_region",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_compact_buffer_region.py",
+      "reason": ""
+    },
+    {
+      "rank": 135,
+      "candidate_id": "112",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_usmp_utils",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_usmp_utils.py",
+      "reason": ""
+    },
+    {
+      "rank": 136,
+      "candidate_id": "113",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_analysis_verify_gpu_code",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_analysis_verify_gpu_code.py",
+      "reason": ""
+    },
+    {
+      "rank": 137,
+      "candidate_id": "114",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_reduce_branching_through_overcompute",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_reduce_branching_through_overcompute.py",
+      "reason": ""
+    },
+    {
+      "rank": 138,
+      "candidate_id": "125",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_transform_remove_weight_layout_rewrite_block",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_remove_weight_layout_rewrite_block.py",
+      "reason": ""
+    },
+    {
+      "rank": 139,
+      "candidate_id": "129",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_transform_loop_partition",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_loop_partition.py",
+      "reason": ""
+    },
+    {
+      "rank": 140,
+      "candidate_id": "134",
+      "testcase_class": "cython.tests.python.unittest.test_tir_transform_remove_assume",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_remove_assume.py",
+      "reason": ""
+    },
+    {
+      "rank": 141,
+      "candidate_id": "146",
+      "testcase_class": "cython.tests.python.unittest.test_tir_analysis_detect_buffer_access_lca",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_analysis_detect_buffer_access_lca.py",
+      "reason": ""
+    },
+    {
+      "rank": 142,
+      "candidate_id": "154",
+      "testcase_class": "ctypes.tests.python.unittest.test_tir_transform_compact_buffer_region",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_tir_transform_compact_buffer_region.py",
+      "reason": ""
+    },
+    {
+      "rank": 143,
+      "candidate_id": "24",
+      "testcase_class": "ctypes.tests.python.relay.aot.test_pass_aot_lower_main",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/aot/test_pass_aot_lower_main.py",
+      "reason": ""
+    },
+    {
+      "rank": 144,
+      "candidate_id": "30",
+      "testcase_class": "ctypes.tests.python.relay.aot.test_crt_aot",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/aot/test_crt_aot.py",
+      "reason": ""
+    },
+    {
+      "rank": 145,
+      "candidate_id": "65",
+      "testcase_class": "ctypes.tests.python.relay.aot.test_c_device_api",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/aot/test_c_device_api.py",
+      "reason": ""
+    },
+    {
+      "rank": 146,
+      "candidate_id": "90",
+      "testcase_class": "ctypes.tests.python.relay.aot.test_aot_create_function_metadata",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/relay/aot/test_aot_create_function_metadata.py",
+      "reason": ""
+    },
+    {
+      "rank": 147,
+      "candidate_id": "107",
+      "testcase_class": "ctypes.tests.python.unittest.test_runtime_graph_cuda_graph",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_runtime_graph_cuda_graph.py",
+      "reason": ""
+    },
+    {
+      "rank": 148,
+      "candidate_id": "150",
+      "testcase_class": "cython.tests.python.unittest.test_runtime_heterogeneous",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_runtime_heterogeneous.py",
+      "reason": ""
+    },
+    {
+      "rank": 149,
+      "candidate_id": "151",
+      "testcase_class": "cython.tests.python.unittest.test_micro_model_library_format",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_micro_model_library_format.py",
+      "reason": ""
+    },
+    {
+      "rank": 150,
+      "candidate_id": "82",
+      "testcase_class": "ctypes.tests.python.all-platform-minimal-test.test_minimal_target_codegen_llvm",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/all-platform-minimal-test/test_minimal_target_codegen_llvm.py",
+      "reason": ""
+    },
+    {
+      "rank": 151,
+      "candidate_id": "147",
+      "testcase_class": "ctypes.tests.python.unittest.test_target_codegen_device",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/unittest/test_target_codegen_device.py",
+      "reason": ""
+    },
+    {
+      "rank": 152,
+      "candidate_id": "153",
+      "testcase_class": "ctypes.tests.python.contrib.test_arm_compute_lib.test_reshape",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_arm_compute_lib/test_reshape.py",
+      "reason": ""
+    },
+    {
+      "rank": 153,
+      "candidate_id": "39",
+      "testcase_class": "ctypes.tests.python.contrib.test_ethosn.test_codegen",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/contrib/test_ethosn/test_codegen.py",
+      "reason": ""
+    },
+    {
+      "rank": 154,
+      "candidate_id": "11",
+      "testcase_class": "ctypes.tests.python.driver.tvmc.test_autoscheduler",
+      "source_file": "/home/lili/TC_try/TVM_PR14492_build3_35148ba/repo/tvm_git_35148ba/tests/python/driver/tvmc/test_autoscheduler.py",
+      "reason": "auto-filled, no direct evidence found."
+    }
+  ]
+}

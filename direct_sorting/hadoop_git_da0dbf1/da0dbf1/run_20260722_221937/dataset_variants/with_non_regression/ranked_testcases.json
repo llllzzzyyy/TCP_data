@@ -1,0 +1,795 @@
+{
+  "ranking": [
+    {
+      "rank": 1,
+      "candidate_id": "72",
+      "testcase_class": "org.apache.hadoop.hdfs.protocol.datatransfer.sasl.TestSaslDataTransfer",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/protocol/datatransfer/sasl/TestSaslDataTransfer.java",
+      "reason": ""
+    },
+    {
+      "rank": 2,
+      "candidate_id": "73",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.TestBlockReplacement",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/TestBlockReplacement.java",
+      "reason": ""
+    },
+    {
+      "rank": 3,
+      "candidate_id": "71",
+      "testcase_class": "org.apache.hadoop.fs.shell.find.TestFind",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/shell/find/TestFind.java",
+      "reason": ""
+    },
+    {
+      "rank": 4,
+      "candidate_id": "67",
+      "testcase_class": "org.apache.hadoop.fs.TestRawLocalFileSystemContract",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/TestRawLocalFileSystemContract.java",
+      "reason": ""
+    },
+    {
+      "rank": 5,
+      "candidate_id": "30",
+      "testcase_class": "org.apache.hadoop.hdfs.server.mover.TestMover",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/mover/TestMover.java",
+      "reason": ""
+    },
+    {
+      "rank": 6,
+      "candidate_id": "109",
+      "testcase_class": "org.apache.hadoop.hdfs.tools.TestDFSZKFailoverController",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/tools/TestDFSZKFailoverController.java",
+      "reason": ""
+    },
+    {
+      "rank": 7,
+      "candidate_id": "68",
+      "testcase_class": "org.apache.hadoop.hdfs.web.TestByteRangeInputStream",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs-client/src/test/java/org/apache/hadoop/hdfs/web/TestByteRangeInputStream.java",
+      "reason": ""
+    },
+    {
+      "rank": 8,
+      "candidate_id": "69",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestPersistentStoragePolicySatisfier",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestPersistentStoragePolicySatisfier.java",
+      "reason": ""
+    },
+    {
+      "rank": 9,
+      "candidate_id": "4",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestEditLogFileOutputStream",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestEditLogFileOutputStream.java",
+      "reason": ""
+    },
+    {
+      "rank": 10,
+      "candidate_id": "63",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestFSNamesystemMBean",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestFSNamesystemMBean.java",
+      "reason": ""
+    },
+    {
+      "rank": 11,
+      "candidate_id": "110",
+      "testcase_class": "org.apache.hadoop.hdfs.server.blockmanagement.TestComputeInvalidateWork",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/blockmanagement/TestComputeInvalidateWork.java",
+      "reason": ""
+    },
+    {
+      "rank": 12,
+      "candidate_id": "6",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestGetBlockLocations",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestGetBlockLocations.java",
+      "reason": ""
+    },
+    {
+      "rank": 13,
+      "candidate_id": "61",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestAuditLogs",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestAuditLogs.java",
+      "reason": ""
+    },
+    {
+      "rank": 14,
+      "candidate_id": "62",
+      "testcase_class": "org.apache.hadoop.hdfs.TestPersistBlocks",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestPersistBlocks.java",
+      "reason": ""
+    },
+    {
+      "rank": 15,
+      "candidate_id": "17",
+      "testcase_class": "org.apache.hadoop.hdfs.server.balancer.TestBalancerService",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/balancer/TestBalancerService.java",
+      "reason": ""
+    },
+    {
+      "rank": 16,
+      "candidate_id": "92",
+      "testcase_class": "org.apache.hadoop.hdfs.server.balancer.TestBalancer",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/balancer/TestBalancer.java",
+      "reason": ""
+    },
+    {
+      "rank": 17,
+      "candidate_id": "1",
+      "testcase_class": "org.apache.hadoop.hdfs.server.balancer.TestBalancerWithMultipleNameNodes",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/balancer/TestBalancerWithMultipleNameNodes.java",
+      "reason": ""
+    },
+    {
+      "rank": 18,
+      "candidate_id": "58",
+      "testcase_class": "org.apache.hadoop.hdfs.server.balancer.TestBalancerRPCDelay",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/balancer/TestBalancerRPCDelay.java",
+      "reason": ""
+    },
+    {
+      "rank": 19,
+      "candidate_id": "35",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestDecommissioningStatus",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestDecommissioningStatus.java",
+      "reason": ""
+    },
+    {
+      "rank": 20,
+      "candidate_id": "47",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestDecommissioningStatusWithBackoffMonitor",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestDecommissioningStatusWithBackoffMonitor.java",
+      "reason": ""
+    },
+    {
+      "rank": 21,
+      "candidate_id": "57",
+      "testcase_class": "org.apache.hadoop.ipc.TestReuseRpcConnections",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc/TestReuseRpcConnections.java",
+      "reason": ""
+    },
+    {
+      "rank": 22,
+      "candidate_id": "83",
+      "testcase_class": "org.apache.hadoop.ipc.TestProcessingDetails",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc/TestProcessingDetails.java",
+      "reason": ""
+    },
+    {
+      "rank": 23,
+      "candidate_id": "88",
+      "testcase_class": "org.apache.hadoop.io.retry.TestFailoverProxy",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/retry/TestFailoverProxy.java",
+      "reason": ""
+    },
+    {
+      "rank": 24,
+      "candidate_id": "89",
+      "testcase_class": "org.apache.hadoop.ipc.TestIPCServerResponder",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc/TestIPCServerResponder.java",
+      "reason": ""
+    },
+    {
+      "rank": 25,
+      "candidate_id": "93",
+      "testcase_class": "org.apache.hadoop.ipc.TestCallQueueManager",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc/TestCallQueueManager.java",
+      "reason": ""
+    },
+    {
+      "rank": 26,
+      "candidate_id": "15",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.ha.TestBootstrapStandbyWithInProgressTailing",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/ha/TestBootstrapStandbyWithInProgressTailing.java",
+      "reason": ""
+    },
+    {
+      "rank": 27,
+      "candidate_id": "25",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.ha.TestDFSUpgradeWithHA",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/ha/TestDFSUpgradeWithHA.java",
+      "reason": ""
+    },
+    {
+      "rank": 28,
+      "candidate_id": "31",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.ha.TestHASafeMode",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/ha/TestHASafeMode.java",
+      "reason": ""
+    },
+    {
+      "rank": 29,
+      "candidate_id": "37",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.ha.TestBootstrapStandby",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/ha/TestBootstrapStandby.java",
+      "reason": ""
+    },
+    {
+      "rank": 30,
+      "candidate_id": "44",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.ha.TestHAFsck",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/ha/TestHAFsck.java",
+      "reason": ""
+    },
+    {
+      "rank": 31,
+      "candidate_id": "46",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.ha.TestGetGroupsWithHA",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/ha/TestGetGroupsWithHA.java",
+      "reason": ""
+    },
+    {
+      "rank": 32,
+      "candidate_id": "53",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.ha.TestMultiObserverNode",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/ha/TestMultiObserverNode.java",
+      "reason": ""
+    },
+    {
+      "rank": 33,
+      "candidate_id": "82",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.ha.TestNNHealthCheck",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/ha/TestNNHealthCheck.java",
+      "reason": ""
+    },
+    {
+      "rank": 34,
+      "candidate_id": "8",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestEditsDoubleBuffer",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestEditsDoubleBuffer.java",
+      "reason": ""
+    },
+    {
+      "rank": 35,
+      "candidate_id": "2",
+      "testcase_class": "org.apache.hadoop.hdfs.qjournal.client.TestQuorumJournalManager",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/qjournal/client/TestQuorumJournalManager.java",
+      "reason": ""
+    },
+    {
+      "rank": 36,
+      "candidate_id": "81",
+      "testcase_class": "org.apache.hadoop.hdfs.qjournal.server.TestJournalNode",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/qjournal/server/TestJournalNode.java",
+      "reason": ""
+    },
+    {
+      "rank": 37,
+      "candidate_id": "108",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.ha.TestDNFencing",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/ha/TestDNFencing.java",
+      "reason": ""
+    },
+    {
+      "rank": 38,
+      "candidate_id": "5",
+      "testcase_class": "org.apache.hadoop.security.TestDoAsEffectiveUser",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/TestDoAsEffectiveUser.java",
+      "reason": ""
+    },
+    {
+      "rank": 39,
+      "candidate_id": "28",
+      "testcase_class": "org.apache.hadoop.crypto.key.TestKeyProviderDelegationTokenExtension",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/crypto/key/TestKeyProviderDelegationTokenExtension.java",
+      "reason": ""
+    },
+    {
+      "rank": 40,
+      "candidate_id": "42",
+      "testcase_class": "org.apache.hadoop.security.alias.TestCredentialProvider",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/alias/TestCredentialProvider.java",
+      "reason": ""
+    },
+    {
+      "rank": 41,
+      "candidate_id": "90",
+      "testcase_class": "org.apache.hadoop.security.TestRaceWhenRelogin",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/TestRaceWhenRelogin.java",
+      "reason": ""
+    },
+    {
+      "rank": 42,
+      "candidate_id": "34",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.TestLazyPersistReplicaPlacement",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/fsdataset/impl/TestLazyPersistReplicaPlacement.java",
+      "reason": ""
+    },
+    {
+      "rank": 43,
+      "candidate_id": "45",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.TestDataNodeVolumeFailure",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/TestDataNodeVolumeFailure.java",
+      "reason": ""
+    },
+    {
+      "rank": 44,
+      "candidate_id": "66",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.TestBlockScanner",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/TestBlockScanner.java",
+      "reason": ""
+    },
+    {
+      "rank": 45,
+      "candidate_id": "74",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.TestDataDirs",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/TestDataDirs.java",
+      "reason": ""
+    },
+    {
+      "rank": 46,
+      "candidate_id": "85",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.TestDataNodeInitStorage",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/TestDataNodeInitStorage.java",
+      "reason": ""
+    },
+    {
+      "rank": 47,
+      "candidate_id": "101",
+      "testcase_class": "org.apache.hadoop.hdfs.TestDatanodeRegistration",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestDatanodeRegistration.java",
+      "reason": ""
+    },
+    {
+      "rank": 48,
+      "candidate_id": "38",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.TestDirectoryScanner",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/TestDirectoryScanner.java",
+      "reason": ""
+    },
+    {
+      "rank": 49,
+      "candidate_id": "10",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.fsdataset.impl.TestFsVolumeList",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/fsdataset/impl/TestFsVolumeList.java",
+      "reason": ""
+    },
+    {
+      "rank": 50,
+      "candidate_id": "22",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.TestDataNodeTransferSocketSize",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/TestDataNodeTransferSocketSize.java",
+      "reason": ""
+    },
+    {
+      "rank": 51,
+      "candidate_id": "26",
+      "testcase_class": "org.apache.hadoop.hdfs.server.datanode.TestDataNodeMultipleRegistrations",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/datanode/TestDataNodeMultipleRegistrations.java",
+      "reason": ""
+    },
+    {
+      "rank": 52,
+      "candidate_id": "41",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestXAttrConfigFlag",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestXAttrConfigFlag.java",
+      "reason": ""
+    },
+    {
+      "rank": 53,
+      "candidate_id": "11",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestNamenodeStorageDirectives",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestNamenodeStorageDirectives.java",
+      "reason": ""
+    },
+    {
+      "rank": 54,
+      "candidate_id": "39",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestNameNodeHttpServerXFrame",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestNameNodeHttpServerXFrame.java",
+      "reason": ""
+    },
+    {
+      "rank": 55,
+      "candidate_id": "7",
+      "testcase_class": "org.apache.hadoop.fs.viewfs.TestNNStartupWhenViewFSOverloadSchemeEnabled",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/viewfs/TestNNStartupWhenViewFSOverloadSchemeEnabled.java",
+      "reason": ""
+    },
+    {
+      "rank": 56,
+      "candidate_id": "3",
+      "testcase_class": "org.apache.hadoop.fs.viewfs.TestViewFsWithXAttrs",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/viewfs/TestViewFsWithXAttrs.java",
+      "reason": ""
+    },
+    {
+      "rank": 57,
+      "candidate_id": "12",
+      "testcase_class": "org.apache.hadoop.hdfs.TestViewDistributedFileSystemWithMountLinks",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestViewDistributedFileSystemWithMountLinks.java",
+      "reason": ""
+    },
+    {
+      "rank": 58,
+      "candidate_id": "23",
+      "testcase_class": "org.apache.hadoop.fs.viewfs.TestViewFileSystemAtHdfsRoot",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/viewfs/TestViewFileSystemAtHdfsRoot.java",
+      "reason": ""
+    },
+    {
+      "rank": 59,
+      "candidate_id": "78",
+      "testcase_class": "org.apache.hadoop.fs.viewfs.TestViewFsLinkFallback",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/fs/viewfs/TestViewFsLinkFallback.java",
+      "reason": ""
+    },
+    {
+      "rank": 60,
+      "candidate_id": "16",
+      "testcase_class": "org.apache.hadoop.fs.TestFilterFs",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/TestFilterFs.java",
+      "reason": ""
+    },
+    {
+      "rank": 61,
+      "candidate_id": "65",
+      "testcase_class": "org.apache.hadoop.hdfs.client.impl.TestBlockReaderLocalLegacy",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/client/impl/TestBlockReaderLocalLegacy.java",
+      "reason": ""
+    },
+    {
+      "rank": 62,
+      "candidate_id": "9",
+      "testcase_class": "org.apache.hadoop.hdfs.shortcircuit.TestShortCircuitLocalRead",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/shortcircuit/TestShortCircuitLocalRead.java",
+      "reason": ""
+    },
+    {
+      "rank": 63,
+      "candidate_id": "70",
+      "testcase_class": "org.apache.hadoop.hdfs.TestLargeBlock",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestLargeBlock.java",
+      "reason": ""
+    },
+    {
+      "rank": 64,
+      "candidate_id": "91",
+      "testcase_class": "org.apache.hadoop.hdfs.TestFileStatusWithRandomECPolicy",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestFileStatusWithRandomECPolicy.java",
+      "reason": ""
+    },
+    {
+      "rank": 65,
+      "candidate_id": "27",
+      "testcase_class": "org.apache.hadoop.hdfs.TestSafeModeWithStripedFileWithRandomECPolicy",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestSafeModeWithStripedFileWithRandomECPolicy.java",
+      "reason": ""
+    },
+    {
+      "rank": 66,
+      "candidate_id": "75",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestEnabledECPolicies",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestEnabledECPolicies.java",
+      "reason": ""
+    },
+    {
+      "rank": 67,
+      "candidate_id": "76",
+      "testcase_class": "org.apache.hadoop.hdfs.TestDecommissionWithStripedBackoffMonitor",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestDecommissionWithStripedBackoffMonitor.java",
+      "reason": ""
+    },
+    {
+      "rank": 68,
+      "candidate_id": "18",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestReconstructStripedBlocks",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestReconstructStripedBlocks.java",
+      "reason": ""
+    },
+    {
+      "rank": 69,
+      "candidate_id": "19",
+      "testcase_class": "org.apache.hadoop.hdfs.protocol.TestErasureCodingPolicyInfo",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs-client/src/test/java/org/apache/hadoop/hdfs/protocol/TestErasureCodingPolicyInfo.java",
+      "reason": ""
+    },
+    {
+      "rank": 70,
+      "candidate_id": "54",
+      "testcase_class": "org.apache.hadoop.io.erasurecode.coder.TestHHXORErasureCoder",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/erasurecode/coder/TestHHXORErasureCoder.java",
+      "reason": ""
+    },
+    {
+      "rank": 71,
+      "candidate_id": "55",
+      "testcase_class": "org.apache.hadoop.io.file.tfile.TestTFileSeek",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/file/tfile/TestTFileSeek.java",
+      "reason": ""
+    },
+    {
+      "rank": 72,
+      "candidate_id": "98",
+      "testcase_class": "org.apache.hadoop.io.compress.snappy.TestSnappyCompressorDecompressor",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/compress/snappy/TestSnappyCompressorDecompressor.java",
+      "reason": ""
+    },
+    {
+      "rank": 73,
+      "candidate_id": "13",
+      "testcase_class": "org.apache.hadoop.metrics2.lib.TestUniqNames",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/lib/TestUniqNames.java",
+      "reason": ""
+    },
+    {
+      "rank": 74,
+      "candidate_id": "14",
+      "testcase_class": "org.apache.hadoop.util.TestLimitInputStream",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util/TestLimitInputStream.java",
+      "reason": ""
+    },
+    {
+      "rank": 75,
+      "candidate_id": "33",
+      "testcase_class": "org.apache.hadoop.util.TestStringUtils",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util/TestStringUtils.java",
+      "reason": ""
+    },
+    {
+      "rank": 76,
+      "candidate_id": "40",
+      "testcase_class": "org.apache.hadoop.util.TestLineReader",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util/TestLineReader.java",
+      "reason": ""
+    },
+    {
+      "rank": 77,
+      "candidate_id": "51",
+      "testcase_class": "org.apache.hadoop.util.TestTime",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util/TestTime.java",
+      "reason": ""
+    },
+    {
+      "rank": 78,
+      "candidate_id": "52",
+      "testcase_class": "org.apache.hadoop.fs.TestLocalDirAllocator",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/TestLocalDirAllocator.java",
+      "reason": ""
+    },
+    {
+      "rank": 79,
+      "candidate_id": "59",
+      "testcase_class": "org.apache.hadoop.fs.TestDFVariations",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/TestDFVariations.java",
+      "reason": ""
+    },
+    {
+      "rank": 80,
+      "candidate_id": "60",
+      "testcase_class": "org.apache.hadoop.util.TestStringInterner",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util/TestStringInterner.java",
+      "reason": ""
+    },
+    {
+      "rank": 81,
+      "candidate_id": "80",
+      "testcase_class": "org.apache.hadoop.util.TestAsyncDiskService",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util/TestAsyncDiskService.java",
+      "reason": ""
+    },
+    {
+      "rank": 82,
+      "candidate_id": "95",
+      "testcase_class": "org.apache.hadoop.hdfs.util.TestBestEffortLongFile",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/util/TestBestEffortLongFile.java",
+      "reason": ""
+    },
+    {
+      "rank": 83,
+      "candidate_id": "96",
+      "testcase_class": "org.apache.hadoop.test.TestMultithreadedTestUtil",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/test/TestMultithreadedTestUtil.java",
+      "reason": ""
+    },
+    {
+      "rank": 84,
+      "candidate_id": "99",
+      "testcase_class": "org.apache.hadoop.util.TestChunkedArrayList",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util/TestChunkedArrayList.java",
+      "reason": ""
+    },
+    {
+      "rank": 85,
+      "candidate_id": "84",
+      "testcase_class": "org.apache.hadoop.fs.shell.TestTail",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/shell/TestTail.java",
+      "reason": ""
+    },
+    {
+      "rank": 86,
+      "candidate_id": "103",
+      "testcase_class": "org.apache.hadoop.fs.TestQuotaUsage",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/TestQuotaUsage.java",
+      "reason": ""
+    },
+    {
+      "rank": 87,
+      "candidate_id": "43",
+      "testcase_class": "org.apache.hadoop.hdfs.TestHDFSTrash",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestHDFSTrash.java",
+      "reason": ""
+    },
+    {
+      "rank": 88,
+      "candidate_id": "64",
+      "testcase_class": "org.apache.hadoop.hdfs.TestDFSShell",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestDFSShell.java",
+      "reason": ""
+    },
+    {
+      "rank": 89,
+      "candidate_id": "77",
+      "testcase_class": "org.apache.hadoop.hdfs.tools.offlineImageViewer.TestOfflineImageViewerForContentSummary",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/tools/offlineImageViewer/TestOfflineImageViewerForContentSummary.java",
+      "reason": ""
+    },
+    {
+      "rank": 90,
+      "candidate_id": "79",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.startupprogress.TestStartupProgress",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/startupprogress/TestStartupProgress.java",
+      "reason": ""
+    },
+    {
+      "rank": 91,
+      "candidate_id": "102",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestFsckWithMultipleNameNodes",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestFsckWithMultipleNameNodes.java",
+      "reason": ""
+    },
+    {
+      "rank": 92,
+      "candidate_id": "104",
+      "testcase_class": "org.apache.hadoop.security.http.TestXFrameOptionsFilter",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/security/http/TestXFrameOptionsFilter.java",
+      "reason": ""
+    },
+    {
+      "rank": 93,
+      "candidate_id": "48",
+      "testcase_class": "org.apache.hadoop.fs.sftp.TestSFTPFileSystem",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/sftp/TestSFTPFileSystem.java",
+      "reason": ""
+    },
+    {
+      "rank": 94,
+      "candidate_id": "49",
+      "testcase_class": "org.apache.hadoop.fs.contract.localfs.TestLocalFSContractSetTimes",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/contract/localfs/TestLocalFSContractSetTimes.java",
+      "reason": ""
+    },
+    {
+      "rank": 95,
+      "candidate_id": "50",
+      "testcase_class": "org.apache.hadoop.conf.TestConfiguration",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/conf/TestConfiguration.java",
+      "reason": ""
+    },
+    {
+      "rank": 96,
+      "candidate_id": "94",
+      "testcase_class": "org.apache.hadoop.metrics2.util.TestMetricsCache",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/util/TestMetricsCache.java",
+      "reason": ""
+    },
+    {
+      "rank": 97,
+      "candidate_id": "24",
+      "testcase_class": "org.apache.hadoop.metrics2.sink.TestRollingFileSystemSinkWithSecureHdfs",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/metrics2/sink/TestRollingFileSystemSinkWithSecureHdfs.java",
+      "reason": ""
+    },
+    {
+      "rank": 98,
+      "candidate_id": "20",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.snapshot.TestDiffListBySkipList",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/snapshot/TestDiffListBySkipList.java",
+      "reason": ""
+    },
+    {
+      "rank": 99,
+      "candidate_id": "21",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.TestHDFSConcat",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/TestHDFSConcat.java",
+      "reason": ""
+    },
+    {
+      "rank": 100,
+      "candidate_id": "29",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.snapshot.TestRenameWithSnapshots",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/snapshot/TestRenameWithSnapshots.java",
+      "reason": ""
+    },
+    {
+      "rank": 101,
+      "candidate_id": "32",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.snapshot.TestSnapRootDescendantDiff",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/snapshot/TestSnapRootDescendantDiff.java",
+      "reason": ""
+    },
+    {
+      "rank": 102,
+      "candidate_id": "36",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.snapshot.TestOrderedSnapshotDeletionGc",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/snapshot/TestOrderedSnapshotDeletionGc.java",
+      "reason": ""
+    },
+    {
+      "rank": 103,
+      "candidate_id": "86",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.snapshot.TestNestedSnapshots",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/snapshot/TestNestedSnapshots.java",
+      "reason": ""
+    },
+    {
+      "rank": 104,
+      "candidate_id": "87",
+      "testcase_class": "org.apache.hadoop.hdfs.TestDFSMkdirs",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/TestDFSMkdirs.java",
+      "reason": ""
+    },
+    {
+      "rank": 105,
+      "candidate_id": "97",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.snapshot.TestSnapshottableDirListing",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/snapshot/TestSnapshottableDirListing.java",
+      "reason": ""
+    },
+    {
+      "rank": 106,
+      "candidate_id": "56",
+      "testcase_class": "org.apache.hadoop.crypto.TestOpensslCipher",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/crypto/TestOpensslCipher.java",
+      "reason": ""
+    },
+    {
+      "rank": 107,
+      "candidate_id": "100",
+      "testcase_class": "org.apache.hadoop.crypto.TestCryptoStreamsWithJceSm4CtrCryptoCodec",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/crypto/TestCryptoStreamsWithJceSm4CtrCryptoCodec.java",
+      "reason": ""
+    },
+    {
+      "rank": 108,
+      "candidate_id": "105",
+      "testcase_class": "org.apache.hadoop.fs.TestSymlinkLocalFSFileContext",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/fs/TestSymlinkLocalFSFileContext.java",
+      "reason": ""
+    },
+    {
+      "rank": 109,
+      "candidate_id": "106",
+      "testcase_class": "org.apache.hadoop.io.serializer.avro.TestAvroSerialization",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/io/serializer/avro/TestAvroSerialization.java",
+      "reason": ""
+    },
+    {
+      "rank": 110,
+      "candidate_id": "107",
+      "testcase_class": "org.apache.hadoop.hdfs.server.namenode.web.resources.TestWebHdfsDataLocality",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/web/resources/TestWebHdfsDataLocality.java",
+      "reason": ""
+    },
+    {
+      "rank": 111,
+      "candidate_id": "111",
+      "testcase_class": "org.apache.hadoop.hdfs.web.TestWebHDFSOAuth2",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-hdfs-project/hadoop-hdfs-client/src/test/java/org/apache/hadoop/hdfs/web/TestWebHDFSOAuth2.java",
+      "reason": ""
+    },
+    {
+      "rank": 112,
+      "candidate_id": "112",
+      "testcase_class": "org.apache.hadoop.metrics2.impl.TestMetricsSystemImpl",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/metrics2/impl/TestMetricsSystemImpl.java",
+      "reason": ""
+    },
+    {
+      "rank": 113,
+      "candidate_id": "113",
+      "testcase_class": "org.apache.hadoop.util.TestInstrumentedLock",
+      "source_file": "/home/lili/TC_try/Hadoop_PR2768_build2_da0dbf1/repo/hadoop_git_da0dbf1/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/util/TestInstrumentedLock.java",
+      "reason": ""
+    }
+  ]
+}

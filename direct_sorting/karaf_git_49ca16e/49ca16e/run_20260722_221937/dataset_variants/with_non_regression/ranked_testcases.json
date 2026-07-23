@@ -1,0 +1,732 @@
+{
+  "ranking": [
+    {
+      "rank": 1,
+      "candidate_id": "84",
+      "testcase_class": "org.apache.karaf.features.internal.service.FeaturesValidationTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/features/core/src/test/java/org/apache/karaf/features/internal/service/FeaturesValidationTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 2,
+      "candidate_id": "13",
+      "testcase_class": "org.apache.karaf.features.internal.service.OverridesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/features/core/src/test/java/org/apache/karaf/features/internal/service/OverridesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 3,
+      "candidate_id": "39",
+      "testcase_class": "org.apache.karaf.features.internal.service.LocationPatternTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/features/core/src/test/java/org/apache/karaf/features/internal/service/LocationPatternTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 4,
+      "candidate_id": "7",
+      "testcase_class": "org.apache.karaf.features.RepositoryTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/features/core/src/test/java/org/apache/karaf/features/RepositoryTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 5,
+      "candidate_id": "53",
+      "testcase_class": "org.apache.karaf.features.ConditionalTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/features/core/src/test/java/org/apache/karaf/features/ConditionalTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 6,
+      "candidate_id": "29",
+      "testcase_class": "org.apache.karaf.features.internal.region.SubsystemTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/features/core/src/test/java/org/apache/karaf/features/internal/region/SubsystemTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 7,
+      "candidate_id": "91",
+      "testcase_class": "org.apache.karaf.features.internal.download.impl.DownloadManagerHelperTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/features/core/src/test/java/org/apache/karaf/features/internal/download/impl/DownloadManagerHelperTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 8,
+      "candidate_id": "80",
+      "testcase_class": "org.apache.karaf.itests.features.StandardFeaturesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/features/StandardFeaturesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 9,
+      "candidate_id": "48",
+      "testcase_class": "org.apache.karaf.itests.ConditionalFeaturesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/ConditionalFeaturesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 10,
+      "candidate_id": "83",
+      "testcase_class": "org.apache.karaf.itests.features.EnterpriseFeaturesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/features/EnterpriseFeaturesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 11,
+      "candidate_id": "57",
+      "testcase_class": "org.apache.karaf.itests.features.Spring52FeaturesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/features/Spring52FeaturesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 12,
+      "candidate_id": "97",
+      "testcase_class": "org.apache.karaf.itests.features.Spring43FeaturesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/features/Spring43FeaturesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 13,
+      "candidate_id": "101",
+      "testcase_class": "org.apache.karaf.itests.ssh.FeatureSshCommandSecurityTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/ssh/FeatureSshCommandSecurityTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 14,
+      "candidate_id": "37",
+      "testcase_class": "org.apache.karaf.kar.internal.KarTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/kar/src/test/java/org/apache/karaf/kar/internal/KarTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 15,
+      "candidate_id": "46",
+      "testcase_class": "org.apache.karaf.deployer.kar.KarArtifactInstallerTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/deployer/kar/src/test/java/org/apache/karaf/deployer/kar/KarArtifactInstallerTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 16,
+      "candidate_id": "63",
+      "testcase_class": "org.apache.karaf.itests.ConfigTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/ConfigTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 17,
+      "candidate_id": "24",
+      "testcase_class": "org.apache.karaf.itests.OverrideConfigTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/OverrideConfigTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 18,
+      "candidate_id": "92",
+      "testcase_class": "org.apache.karaf.itests.ServiceTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/ServiceTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 19,
+      "candidate_id": "17",
+      "testcase_class": "org.apache.karaf.itests.JavaSecurityTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/JavaSecurityTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 20,
+      "candidate_id": "58",
+      "testcase_class": "org.apache.karaf.itests.JMXSecurityTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/JMXSecurityTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 21,
+      "candidate_id": "81",
+      "testcase_class": "org.apache.karaf.itests.XATest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/XATest.java",
+      "reason": ""
+    },
+    {
+      "rank": 22,
+      "candidate_id": "85",
+      "testcase_class": "org.apache.karaf.itests.WrapperTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/WrapperTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 23,
+      "candidate_id": "27",
+      "testcase_class": "org.apache.karaf.itests.HttpTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/HttpTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 24,
+      "candidate_id": "99",
+      "testcase_class": "org.apache.karaf.examples.itests.ExampleWithConfigITest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/examples/karaf-itest-example/src/test/java/org/apache/karaf/examples/itests/ExampleWithConfigITest.java",
+      "reason": ""
+    },
+    {
+      "rank": 25,
+      "candidate_id": "1",
+      "testcase_class": "org.apache.karaf.itests.examples.NamespaceHandlerExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/NamespaceHandlerExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 26,
+      "candidate_id": "2",
+      "testcase_class": "org.apache.karaf.itests.examples.SchedulerExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/SchedulerExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 27,
+      "candidate_id": "8",
+      "testcase_class": "org.apache.karaf.itests.examples.MBeanExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/MBeanExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 28,
+      "candidate_id": "16",
+      "testcase_class": "org.apache.karaf.itests.examples.WarExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/WarExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 29,
+      "candidate_id": "20",
+      "testcase_class": "org.apache.karaf.itests.examples.CdiExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/CdiExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 30,
+      "candidate_id": "21",
+      "testcase_class": "org.apache.karaf.itests.examples.SoapExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/SoapExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 31,
+      "candidate_id": "23",
+      "testcase_class": "org.apache.karaf.itests.examples.RestExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/RestExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 32,
+      "candidate_id": "26",
+      "testcase_class": "org.apache.karaf.itests.examples.ScrExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/ScrExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 33,
+      "candidate_id": "28",
+      "testcase_class": "org.apache.karaf.itests.examples.LogAppenderExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/LogAppenderExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 34,
+      "candidate_id": "31",
+      "testcase_class": "org.apache.karaf.itests.examples.DumpExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/DumpExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 35,
+      "candidate_id": "34",
+      "testcase_class": "org.apache.karaf.itests.examples.CamelExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/CamelExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 36,
+      "candidate_id": "64",
+      "testcase_class": "org.apache.karaf.itests.examples.ScrExampleWithEquinoxTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/ScrExampleWithEquinoxTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 37,
+      "candidate_id": "70",
+      "testcase_class": "org.apache.karaf.itests.examples.BlueprintExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/BlueprintExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 38,
+      "candidate_id": "71",
+      "testcase_class": "org.apache.karaf.itests.examples.JdbcExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/JdbcExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 39,
+      "candidate_id": "95",
+      "testcase_class": "org.apache.karaf.itests.examples.CommandExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/CommandExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 40,
+      "candidate_id": "102",
+      "testcase_class": "org.apache.karaf.itests.examples.JaasExampleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/examples/JaasExampleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 41,
+      "candidate_id": "3",
+      "testcase_class": "org.apache.karaf.itests.mavenresolver.MavenResolverRegisteredOnlyAfterConfigAdminTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/mavenresolver/MavenResolverRegisteredOnlyAfterConfigAdminTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 42,
+      "candidate_id": "66",
+      "testcase_class": "org.apache.karaf.itests.mavenresolver.MavenResolverRegisteredBeforeConfigAdminTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/mavenresolver/MavenResolverRegisteredBeforeConfigAdminTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 43,
+      "candidate_id": "4",
+      "testcase_class": "org.apache.karaf.instance.core.management.internal.InstanceToTableMapperTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/instance/src/test/java/org/apache/karaf/instance/core/management/internal/InstanceToTableMapperTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 44,
+      "candidate_id": "5",
+      "testcase_class": "org.apache.karaf.maven.core.MavenRepositoryURLTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/maven/core/src/test/java/org/apache/karaf/maven/core/MavenRepositoryURLTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 45,
+      "candidate_id": "6",
+      "testcase_class": "org.apache.karaf.event.command.EventDisplayCommandTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/event/src/test/java/org/apache/karaf/event/command/EventDisplayCommandTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 46,
+      "candidate_id": "9",
+      "testcase_class": "org.apache.karaf.config.command.EditCommandTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/config/src/test/java/org/apache/karaf/config/command/EditCommandTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 47,
+      "candidate_id": "10",
+      "testcase_class": "org.apache.karaf.jaas.modules.ldap.LdapLoginModuleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/modules/src/test/java/org/apache/karaf/jaas/modules/ldap/LdapLoginModuleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 48,
+      "candidate_id": "11",
+      "testcase_class": "org.apache.karaf.main.lock.OracleJDBCLockTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/main/src/test/java/org/apache/karaf/main/lock/OracleJDBCLockTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 49,
+      "candidate_id": "12",
+      "testcase_class": "org.apache.karaf.management.KarafMBeanServerGuardTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/management/server/src/test/java/org/apache/karaf/management/KarafMBeanServerGuardTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 50,
+      "candidate_id": "14",
+      "testcase_class": "org.apache.karaf.shell.commands.impl.InfoTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/shell/commands/src/test/java/org/apache/karaf/shell/commands/impl/InfoTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 51,
+      "candidate_id": "15",
+      "testcase_class": "org.apache.karaf.shell.ssh.KnownHostsManagerTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/shell/ssh/src/test/java/org/apache/karaf/shell/ssh/KnownHostsManagerTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 52,
+      "candidate_id": "18",
+      "testcase_class": "org.apache.karaf.main.MainLockingTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/main/src/test/java/org/apache/karaf/main/MainLockingTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 53,
+      "candidate_id": "19",
+      "testcase_class": "org.apache.karaf.util.ParserTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/util/src/test/java/org/apache/karaf/util/ParserTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 54,
+      "candidate_id": "22",
+      "testcase_class": "org.apache.karaf.jaas.modules.properties.PropertiesLoginModuleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/modules/src/test/java/org/apache/karaf/jaas/modules/properties/PropertiesLoginModuleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 55,
+      "candidate_id": "25",
+      "testcase_class": "org.apache.karaf.main.util.SimpleMavenResolverTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/main/src/test/java/org/apache/karaf/main/util/SimpleMavenResolverTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 56,
+      "candidate_id": "30",
+      "testcase_class": "org.apache.karaf.service.guard.impl.GuardProxyCatalogTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/service/guard/src/test/java/org/apache/karaf/service/guard/impl/GuardProxyCatalogTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 57,
+      "candidate_id": "32",
+      "testcase_class": "org.apache.karaf.management.internal.JMXSecurityMBeanImplTestCase",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/management/server/src/test/java/org/apache/karaf/management/internal/JMXSecurityMBeanImplTestCase.java",
+      "reason": ""
+    },
+    {
+      "rank": 58,
+      "candidate_id": "33",
+      "testcase_class": "org.apache.karaf.service.guard.impl.GuardingFindHookTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/service/guard/src/test/java/org/apache/karaf/service/guard/impl/GuardingFindHookTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 59,
+      "candidate_id": "35",
+      "testcase_class": "org.apache.karaf.service.interceptor.impl.runtime.proxy.AsmProxyFactoryTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/services/interceptor/impl/src/test/java/org/apache/karaf/service/interceptor/impl/runtime/proxy/AsmProxyFactoryTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 60,
+      "candidate_id": "36",
+      "testcase_class": "org.apache.karaf.shell.impl.action.command.ActionMaskingCallbackTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/shell/core/src/test/java/org/apache/karaf/shell/impl/action/command/ActionMaskingCallbackTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 61,
+      "candidate_id": "38",
+      "testcase_class": "org.apache.karaf.system.internal.SystemServiceImplTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/system/src/test/java/org/apache/karaf/system/internal/SystemServiceImplTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 62,
+      "candidate_id": "40",
+      "testcase_class": "org.apache.karaf.main.MainTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/main/src/test/java/org/apache/karaf/main/MainTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 63,
+      "candidate_id": "41",
+      "testcase_class": "org.apache.karaf.packages.command.PackageImportTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/package/src/test/java/org/apache/karaf/packages/command/PackageImportTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 64,
+      "candidate_id": "42",
+      "testcase_class": "org.apache.karaf.itests.ssh.KarSshCommandSecurityTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/itests/test/src/test/java/org/apache/karaf/itests/ssh/KarSshCommandSecurityTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 65,
+      "candidate_id": "43",
+      "testcase_class": "org.apache.karaf.main.lock.DefaultJDBCLockTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/main/src/test/java/org/apache/karaf/main/lock/DefaultJDBCLockTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 66,
+      "candidate_id": "44",
+      "testcase_class": "org.apache.karaf.jaas.modules.ldap.BadReferenceTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/modules/src/test/java/org/apache/karaf/jaas/modules/ldap/BadReferenceTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 67,
+      "candidate_id": "45",
+      "testcase_class": "org.apache.karaf.maven.SettingsTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/maven/core/src/test/java/org/apache/karaf/maven/SettingsTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 68,
+      "candidate_id": "47",
+      "testcase_class": "org.apache.karaf.shell.ssh.ServerKeyVerifierImplTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/shell/ssh/src/test/java/org/apache/karaf/shell/ssh/ServerKeyVerifierImplTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 69,
+      "candidate_id": "49",
+      "testcase_class": "org.apache.karaf.specs.locator.OsgiLocatorTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/specs/activator/src/test/java/org/apache/karaf/specs/locator/OsgiLocatorTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 70,
+      "candidate_id": "50",
+      "testcase_class": "org.apache.karaf.jaas.modules.jdbc.JdbcLoginModuleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/modules/src/test/java/org/apache/karaf/jaas/modules/jdbc/JdbcLoginModuleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 71,
+      "candidate_id": "51",
+      "testcase_class": "org.apache.karaf.packages.core.internal.filter.FilterParserTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/package/src/test/java/org/apache/karaf/packages/core/internal/filter/FilterParserTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 72,
+      "candidate_id": "52",
+      "testcase_class": "org.apache.karaf.jaas.blueprint.jasypt.handler.EncryptablePropertyPlaceholderTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/blueprint/jasypt/src/test/java/org/apache/karaf/jaas/blueprint/jasypt/handler/EncryptablePropertyPlaceholderTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 73,
+      "candidate_id": "54",
+      "testcase_class": "org.apache.karaf.main.lock.PostgreSQLJDBCLockTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/main/src/test/java/org/apache/karaf/main/lock/PostgreSQLJDBCLockTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 74,
+      "candidate_id": "55",
+      "testcase_class": "org.apache.karaf.instance.command.CreateCommandTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/instance/src/test/java/org/apache/karaf/instance/command/CreateCommandTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 75,
+      "candidate_id": "56",
+      "testcase_class": "org.apache.karaf.bundle.command.bundletree.TreeTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/bundle/core/src/test/java/org/apache/karaf/bundle/command/bundletree/TreeTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 76,
+      "candidate_id": "59",
+      "testcase_class": "org.apache.karaf.jaas.modules.syncope.SyncopeLoginModuleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/modules/src/test/java/org/apache/karaf/jaas/modules/syncope/SyncopeLoginModuleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 77,
+      "candidate_id": "60",
+      "testcase_class": "org.apache.karaf.jaas.modules.ldap.LdapPoolingTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/modules/src/test/java/org/apache/karaf/jaas/modules/ldap/LdapPoolingTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 78,
+      "candidate_id": "61",
+      "testcase_class": "org.apache.karaf.jaas.modules.ldap.LdapLoginModuleWithEscapesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/modules/src/test/java/org/apache/karaf/jaas/modules/ldap/LdapLoginModuleWithEscapesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 79,
+      "candidate_id": "62",
+      "testcase_class": "org.apache.karaf.jaas.modules.krb5.Krb5LoginModuleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/modules/src/test/java/org/apache/karaf/jaas/modules/krb5/Krb5LoginModuleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 80,
+      "candidate_id": "65",
+      "testcase_class": "org.apache.karaf.http.core.internal.HttpMBeanImplTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/http/src/test/java/org/apache/karaf/http/core/internal/HttpMBeanImplTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 81,
+      "candidate_id": "67",
+      "testcase_class": "org.apache.karaf.shell.impl.console.parsing.ParsingTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/shell/core/src/test/java/org/apache/karaf/shell/impl/console/parsing/ParsingTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 82,
+      "candidate_id": "68",
+      "testcase_class": "org.apache.karaf.main.lock.MySQLJDBCLockTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/main/src/test/java/org/apache/karaf/main/lock/MySQLJDBCLockTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 83,
+      "candidate_id": "69",
+      "testcase_class": "org.apache.karaf.profile.impl.ProfilesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/profile/src/test/java/org/apache/karaf/profile/impl/ProfilesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 84,
+      "candidate_id": "72",
+      "testcase_class": "org.apache.karaf.packages.core.internal.ImportDetailsTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/package/src/test/java/org/apache/karaf/packages/core/internal/ImportDetailsTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 85,
+      "candidate_id": "73",
+      "testcase_class": "org.apache.karaf.tooling.VerifyMojoTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/tooling/karaf-maven-plugin/src/test/java/org/apache/karaf/tooling/VerifyMojoTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 86,
+      "candidate_id": "74",
+      "testcase_class": "org.apache.karaf.profile.impl.PropertiesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/profile/src/test/java/org/apache/karaf/profile/impl/PropertiesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 87,
+      "candidate_id": "75",
+      "testcase_class": "org.apache.karaf.webconsole.instance.InstancePluginTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/webconsole/instance/src/test/java/org/apache/karaf/webconsole/instance/InstancePluginTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 88,
+      "candidate_id": "76",
+      "testcase_class": "org.apache.karaf.event.command.EventPrinterTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/event/src/test/java/org/apache/karaf/event/command/EventPrinterTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 89,
+      "candidate_id": "77",
+      "testcase_class": "org.apache.karaf.config.core.impl.KarafConfigurationPluginTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/config/src/test/java/org/apache/karaf/config/core/impl/KarafConfigurationPluginTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 90,
+      "candidate_id": "78",
+      "testcase_class": "org.apache.karaf.main.util.BootstrapLogManagerTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/main/src/test/java/org/apache/karaf/main/util/BootstrapLogManagerTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 91,
+      "candidate_id": "79",
+      "testcase_class": "org.apache.karaf.deployer.spring.SpringDeploymentListenerTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/deployer/spring/src/test/java/org/apache/karaf/deployer/spring/SpringDeploymentListenerTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 92,
+      "candidate_id": "82",
+      "testcase_class": "org.apache.karaf.main.lock.DerbyJDBCLockTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/main/src/test/java/org/apache/karaf/main/lock/DerbyJDBCLockTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 93,
+      "candidate_id": "86",
+      "testcase_class": "org.apache.karaf.instance.core.internal.InstanceServiceImplTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/instance/src/test/java/org/apache/karaf/instance/core/internal/InstanceServiceImplTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 94,
+      "candidate_id": "87",
+      "testcase_class": "org.apache.karaf.jpm.ProcessTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/instance/src/test/java/org/apache/karaf/jpm/ProcessTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 95,
+      "candidate_id": "88",
+      "testcase_class": "org.apache.karaf.service.guard.tools.ACLConfigurationParserTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/service/guard/src/test/java/org/apache/karaf/service/guard/tools/ACLConfigurationParserTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 96,
+      "candidate_id": "89",
+      "testcase_class": "org.apache.karaf.tooling.features.AddToRepositoryMojoTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/tooling/karaf-maven-plugin/src/test/java/org/apache/karaf/tooling/features/AddToRepositoryMojoTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 97,
+      "candidate_id": "90",
+      "testcase_class": "org.apache.karaf.shell.support.ShellUtilTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/shell/core/src/test/java/org/apache/karaf/shell/support/ShellUtilTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 98,
+      "candidate_id": "93",
+      "testcase_class": "org.apache.karaf.jaas.modules.audit.AbstractAuditLoginModuleTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/modules/src/test/java/org/apache/karaf/jaas/modules/audit/AbstractAuditLoginModuleTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 99,
+      "candidate_id": "94",
+      "testcase_class": "org.apache.karaf.service.command.ListServiceNamesTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/service/core/src/test/java/org/apache/karaf/service/command/ListServiceNamesTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 100,
+      "candidate_id": "96",
+      "testcase_class": "org.apache.karaf.shell.ssh.SshUtilsTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/shell/ssh/src/test/java/org/apache/karaf/shell/ssh/SshUtilsTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 101,
+      "candidate_id": "98",
+      "testcase_class": "org.apache.karaf.jaas.command.ManageRealmCommandTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/jaas/command/src/test/java/org/apache/karaf/jaas/command/ManageRealmCommandTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 102,
+      "candidate_id": "103",
+      "testcase_class": "org.apache.karaf.shell.support.table.ShellTableTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/shell/core/src/test/java/org/apache/karaf/shell/support/table/ShellTableTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 103,
+      "candidate_id": "104",
+      "testcase_class": "org.apache.karaf.bundle.core.internal.MavenConfigServiceTest",
+      "source_file": "/home/lili/TC_try/Karaf_PR1287_build1_49ca16e/repo/karaf_git_49ca16e/bundle/core/src/test/java/org/apache/karaf/bundle/core/internal/MavenConfigServiceTest.java",
+      "reason": ""
+    },
+    {
+      "rank": 104,
+      "candidate_id": "100",
+      "testcase_class": "org.apache.maven.surefire.junit4.JUnit4Provider",
+      "source_file": ".",
+      "reason": ""
+    }
+  ]
+}
